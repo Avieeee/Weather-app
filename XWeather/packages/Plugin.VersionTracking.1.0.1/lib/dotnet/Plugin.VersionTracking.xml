@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Plugin.VersionTracking</name>
+    </assembly>
+    <members>
+        <member name="T:Plugin.VersionTracking.CrossVersionTracking">
+            <summary>
+            Cross platform VersionTracking implemenations
+            </summary>
+        </member>
+        <member name="P:Plugin.VersionTracking.CrossVersionTracking.Current">
+            <summary>
+            Current settings to use
+            </summary>
+        </member>
+    </members>
+</doc>

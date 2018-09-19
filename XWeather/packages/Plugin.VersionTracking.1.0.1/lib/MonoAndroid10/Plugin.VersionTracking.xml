@@ -1,0 +1,132 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Plugin.VersionTracking</name>
+    </assembly>
+    <members>
+        <member name="T:Plugin.VersionTracking.CrossVersionTracking">
+            <summary>
+            Cross platform VersionTracking implemenations
+            </summary>
+        </member>
+        <member name="P:Plugin.VersionTracking.CrossVersionTracking.Current">
+            <summary>
+            Current settings to use
+            </summary>
+        </member>
+        <member name="T:Plugin.VersionTracking.VersionTrackingImplementation">
+            <summary>
+            Implementation for Feature
+            </summary>
+        </member>
+        <member name="M:Plugin.VersionTracking.VersionTrackingImplementation.Track">
+            <summary>
+            Call this as the VERY FIRST THING in FinishedLaunching
+            </summary>
+        </member>
+        <member name="P:Plugin.VersionTracking.VersionTrackingImplementation.IsFirstLaunchEver">
+            <summary>
+            Check if this is the first time ever that the app is launched.
+            </summary>
+            <value>The is first launch ever.</value>
+        </member>
+        <member name="P:Plugin.VersionTracking.VersionTrackingImplementation.IsFirstLaunchForVersion">
+            <summary>
+            Check if this is the first time that this particular version is being launched.
+            </summary>
+            <value>The is first launch for current version.</value>
+        </member>
+        <member name="P:Plugin.VersionTracking.VersionTrackingImplementation.IsFirstLaunchForBuild">
+            <summary>
+            Check if this is the first time that this particular build is being launched.
+            </summary>
+            <value>The is first launch for current build.</value>
+        </member>
+        <member name="P:Plugin.VersionTracking.VersionTrackingImplementation.CurrentVersion">
+            <summary>
+            Returns the current version of the app, as defined in the metadata, e.g. "4.3".
+            </summary>
+            <value>The current version.</value>
+        </member>
+        <member name="P:Plugin.VersionTracking.VersionTrackingImplementation.CurrentBuild">
+            <summary>
+            Returns the current build of the app, as defined in the metadata, e.g. "4300".
+            </summary>
+            <value>The current build.</value>
+        </member>
+        <member name="P:Plugin.VersionTracking.VersionTrackingImplementation.PreviousVersion">
+            <summary>
+            Returns the previous version of the app, e.g. "4.3".
+            </summary>
+            <value>The previous version.</value>
+        </member>
+        <member name="P:Plugin.VersionTracking.VersionTrackingImplementation.PreviousBuild">
+            <summary>
+            Returns the previous build of the app, "4300".
+            </summary>
+            <value>The previous build.</value>
+        </member>
+        <member name="P:Plugin.VersionTracking.VersionTrackingImplementation.FirstInstalledVersion">
+            <summary>
+            Returns the version which the user first installed the app.
+            </summary>
+            <value>The first installed version.</value>
+        </member>
+        <member name="P:Plugin.VersionTracking.VersionTrackingImplementation.FirstInstalledBuild">
+            <summary>
+            Returns the build which the user first installed the app.
+            </summary>
+            <value>The first installed build.</value>
+        </member>
+        <member name="P:Plugin.VersionTracking.VersionTrackingImplementation.VersionHistory">
+            <summary>
+            Returns a List of versions which the user has had installed, e.g. ["3.5", "4.0", "4.1"]. 
+            The List is ordered from first version installed to (including) the current version
+            </summary>
+            <value>The version history.</value>
+        </member>
+        <member name="P:Plugin.VersionTracking.VersionTrackingImplementation.BuildHistory">
+            <summary>
+            Returns a List of builds which the user has had installed, e.g. ["3500", "4000", "4100"].
+            The List is ordered from first build installed to (including) the current build
+            </summary>
+            <value>The build history.</value>
+        </member>
+        <member name="M:Plugin.VersionTracking.VersionTrackingImplementation.FirstLaunchForVersion(System.String)">
+            <summary>
+            Check if this is the first launch for a particular version number. 
+            Useful if you want to execute some code for first time launches of a particular version 
+            (like db migrations?).
+            </summary>
+            <returns>The first launch for version.</returns>
+            <param name="version">Version.</param>
+        </member>
+        <member name="M:Plugin.VersionTracking.VersionTrackingImplementation.FirstLaunchForBuild(System.String)">
+            <summary>
+            Check if this is the first launch for a particular build number. 
+            Useful if you want to execute some code for first time launches of a particular version 
+            (like db migrations?).
+            </summary>
+            <returns>The first launch for build.</returns>
+            <param name="build">Build.</param>
+        </member>
+        <member name="M:Plugin.VersionTracking.VersionTrackingImplementation.OnFirstLaunchOfVersion(System.String,System.Action)">
+            <summary>
+            Calls block if the condition is satisfied that the current version matches `version`, 
+            and this is the first time this app version is being launched.
+            </summary>
+            <returns>The first launch of version.</returns>
+            <param name="version">Version.</param>
+            <param name="block">Block.</param>
+        </member>
+        <member name="M:Plugin.VersionTracking.VersionTrackingImplementation.OnFirstLaunchOfBuild(System.String,System.Action)">
+            <summary>
+            Calls block if the condition is satisfied that the current build matches `build`, 
+            and this is the first time this app build is being launched.
+            </summary>
+            <returns>The first launch of build.</returns>
+            <param name="build">Build.</param>
+            <param name="block">Block.</param>
+        </member>
+    </members>
+</doc>
