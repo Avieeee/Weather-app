@@ -1,50 +1,50 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Paths>
   <Jars>
-    <Jar>C:\Users\samy\Desktop\SIT313 Ass2\final\final\XWeather-master\XWeather\Droid\obj\Debug\MonoAndroid60\lp\0\jl\bin\classes.jar</Jar>
-    <Jar>C:\Users\samy\Desktop\SIT313 Ass2\final\final\XWeather-master\XWeather\Droid\obj\Debug\MonoAndroid60\lp\10\jl\okhttp-2.3.0-jar-with-dependencies.jar</Jar>
-    <Jar>C:\Users\samy\Desktop\SIT313 Ass2\final\final\XWeather-master\XWeather\Droid\obj\Debug\MonoAndroid60\lp\2\jl\bin\classes.jar</Jar>
-    <Jar>C:\Users\samy\Desktop\SIT313 Ass2\final\final\XWeather-master\XWeather\Droid\obj\Debug\MonoAndroid60\lp\21\jl\classes.jar</Jar>
-    <Jar>C:\Users\samy\Desktop\SIT313 Ass2\final\final\XWeather-master\XWeather\Droid\obj\Debug\MonoAndroid60\lp\22\jl\classes.jar</Jar>
-    <Jar>C:\Users\samy\Desktop\SIT313 Ass2\final\final\XWeather-master\XWeather\Droid\obj\Debug\MonoAndroid60\lp\23\jl\classes.jar</Jar>
-    <Jar>C:\Users\samy\Desktop\SIT313 Ass2\final\final\XWeather-master\XWeather\Droid\obj\Debug\MonoAndroid60\lp\24\jl\classes.jar</Jar>
-    <Jar>C:\Users\samy\Desktop\SIT313 Ass2\final\final\XWeather-master\XWeather\Droid\obj\Debug\MonoAndroid60\lp\25\jl\classes.jar</Jar>
-    <Jar>C:\Users\samy\Desktop\SIT313 Ass2\final\final\XWeather-master\XWeather\Droid\obj\Debug\MonoAndroid60\lp\26\jl\classes.jar</Jar>
-    <Jar>C:\Users\samy\Desktop\SIT313 Ass2\final\final\XWeather-master\XWeather\Droid\obj\Debug\MonoAndroid60\lp\27\jl\classes.jar</Jar>
-    <Jar>C:\Users\samy\Desktop\SIT313 Ass2\final\final\XWeather-master\XWeather\Droid\obj\Debug\MonoAndroid60\lp\28\jl\classes.jar</Jar>
-    <Jar>C:\Users\samy\Desktop\SIT313 Ass2\final\final\XWeather-master\XWeather\Droid\obj\Debug\MonoAndroid60\lp\29\jl\classes.jar</Jar>
-    <Jar>C:\Users\samy\Desktop\SIT313 Ass2\final\final\XWeather-master\XWeather\Droid\obj\Debug\MonoAndroid60\lp\3\jl\bin\classes.jar</Jar>
-    <Jar>C:\Users\samy\Desktop\SIT313 Ass2\final\final\XWeather-master\XWeather\Droid\obj\Debug\MonoAndroid60\lp\30\jl\classes.jar</Jar>
-    <Jar>C:\Users\samy\Desktop\SIT313 Ass2\final\final\XWeather-master\XWeather\Droid\obj\Debug\MonoAndroid60\lp\31\jl\classes.jar</Jar>
-    <Jar>C:\Users\samy\Desktop\SIT313 Ass2\final\final\XWeather-master\XWeather\Droid\obj\Debug\MonoAndroid60\lp\32\jl\classes.jar</Jar>
-    <Jar>C:\Users\samy\Desktop\SIT313 Ass2\final\final\XWeather-master\XWeather\Droid\obj\Debug\MonoAndroid60\lp\33\jl\classes.jar</Jar>
-    <Jar>C:\Users\samy\Desktop\SIT313 Ass2\final\final\XWeather-master\XWeather\Droid\obj\Debug\MonoAndroid60\lp\34\jl\classes.jar</Jar>
-    <Jar>C:\Users\samy\Desktop\SIT313 Ass2\final\final\XWeather-master\XWeather\Droid\obj\Debug\MonoAndroid60\lp\35\jl\classes.jar</Jar>
-    <Jar>C:\Users\samy\Desktop\SIT313 Ass2\final\final\XWeather-master\XWeather\Droid\obj\Debug\MonoAndroid60\lp\36\jl\classes.jar</Jar>
-    <Jar>C:\Users\samy\Desktop\SIT313 Ass2\final\final\XWeather-master\XWeather\Droid\obj\Debug\MonoAndroid60\lp\37\jl\classes.jar</Jar>
-    <Jar>C:\Users\samy\Desktop\SIT313 Ass2\final\final\XWeather-master\XWeather\Droid\obj\Debug\MonoAndroid60\lp\38\jl\classes.jar</Jar>
-    <Jar>C:\Users\samy\Desktop\SIT313 Ass2\final\final\XWeather-master\XWeather\Droid\obj\Debug\MonoAndroid60\lp\5\jl\bin\classes.jar</Jar>
+    <Jar>C:\Users\samy\Documents\GitHub\Weather-app\XWeather\Droid\obj\Debug\MonoAndroid60\lp\0\jl\bin\classes.jar</Jar>
+    <Jar>C:\Users\samy\Documents\GitHub\Weather-app\XWeather\Droid\obj\Debug\MonoAndroid60\lp\10\jl\okhttp-2.3.0-jar-with-dependencies.jar</Jar>
+    <Jar>C:\Users\samy\Documents\GitHub\Weather-app\XWeather\Droid\obj\Debug\MonoAndroid60\lp\2\jl\bin\classes.jar</Jar>
+    <Jar>C:\Users\samy\Documents\GitHub\Weather-app\XWeather\Droid\obj\Debug\MonoAndroid60\lp\21\jl\classes.jar</Jar>
+    <Jar>C:\Users\samy\Documents\GitHub\Weather-app\XWeather\Droid\obj\Debug\MonoAndroid60\lp\22\jl\classes.jar</Jar>
+    <Jar>C:\Users\samy\Documents\GitHub\Weather-app\XWeather\Droid\obj\Debug\MonoAndroid60\lp\23\jl\classes.jar</Jar>
+    <Jar>C:\Users\samy\Documents\GitHub\Weather-app\XWeather\Droid\obj\Debug\MonoAndroid60\lp\24\jl\classes.jar</Jar>
+    <Jar>C:\Users\samy\Documents\GitHub\Weather-app\XWeather\Droid\obj\Debug\MonoAndroid60\lp\25\jl\classes.jar</Jar>
+    <Jar>C:\Users\samy\Documents\GitHub\Weather-app\XWeather\Droid\obj\Debug\MonoAndroid60\lp\26\jl\classes.jar</Jar>
+    <Jar>C:\Users\samy\Documents\GitHub\Weather-app\XWeather\Droid\obj\Debug\MonoAndroid60\lp\27\jl\classes.jar</Jar>
+    <Jar>C:\Users\samy\Documents\GitHub\Weather-app\XWeather\Droid\obj\Debug\MonoAndroid60\lp\28\jl\classes.jar</Jar>
+    <Jar>C:\Users\samy\Documents\GitHub\Weather-app\XWeather\Droid\obj\Debug\MonoAndroid60\lp\29\jl\classes.jar</Jar>
+    <Jar>C:\Users\samy\Documents\GitHub\Weather-app\XWeather\Droid\obj\Debug\MonoAndroid60\lp\3\jl\bin\classes.jar</Jar>
+    <Jar>C:\Users\samy\Documents\GitHub\Weather-app\XWeather\Droid\obj\Debug\MonoAndroid60\lp\30\jl\classes.jar</Jar>
+    <Jar>C:\Users\samy\Documents\GitHub\Weather-app\XWeather\Droid\obj\Debug\MonoAndroid60\lp\31\jl\classes.jar</Jar>
+    <Jar>C:\Users\samy\Documents\GitHub\Weather-app\XWeather\Droid\obj\Debug\MonoAndroid60\lp\32\jl\classes.jar</Jar>
+    <Jar>C:\Users\samy\Documents\GitHub\Weather-app\XWeather\Droid\obj\Debug\MonoAndroid60\lp\33\jl\classes.jar</Jar>
+    <Jar>C:\Users\samy\Documents\GitHub\Weather-app\XWeather\Droid\obj\Debug\MonoAndroid60\lp\34\jl\classes.jar</Jar>
+    <Jar>C:\Users\samy\Documents\GitHub\Weather-app\XWeather\Droid\obj\Debug\MonoAndroid60\lp\35\jl\classes.jar</Jar>
+    <Jar>C:\Users\samy\Documents\GitHub\Weather-app\XWeather\Droid\obj\Debug\MonoAndroid60\lp\36\jl\classes.jar</Jar>
+    <Jar>C:\Users\samy\Documents\GitHub\Weather-app\XWeather\Droid\obj\Debug\MonoAndroid60\lp\37\jl\classes.jar</Jar>
+    <Jar>C:\Users\samy\Documents\GitHub\Weather-app\XWeather\Droid\obj\Debug\MonoAndroid60\lp\38\jl\classes.jar</Jar>
+    <Jar>C:\Users\samy\Documents\GitHub\Weather-app\XWeather\Droid\obj\Debug\MonoAndroid60\lp\5\jl\bin\classes.jar</Jar>
   </Jars>
   <ResolvedResourceDirectories>
-    <ResolvedResourceDirectory>C:\Users\samy\Desktop\SIT313 Ass2\final\final\XWeather-master\XWeather\Droid\obj\Debug\MonoAndroid60\lp\0\jl\res</ResolvedResourceDirectory>
-    <ResolvedResourceDirectory>C:\Users\samy\Desktop\SIT313 Ass2\final\final\XWeather-master\XWeather\Droid\obj\Debug\MonoAndroid60\lp\1\jl\res</ResolvedResourceDirectory>
-    <ResolvedResourceDirectory>C:\Users\samy\Desktop\SIT313 Ass2\final\final\XWeather-master\XWeather\Droid\obj\Debug\MonoAndroid60\lp\2\jl\res</ResolvedResourceDirectory>
-    <ResolvedResourceDirectory>C:\Users\samy\Desktop\SIT313 Ass2\final\final\XWeather-master\XWeather\Droid\obj\Debug\MonoAndroid60\lp\3\jl\res</ResolvedResourceDirectory>
-    <ResolvedResourceDirectory>C:\Users\samy\Desktop\SIT313 Ass2\final\final\XWeather-master\XWeather\Droid\obj\Debug\MonoAndroid60\lp\4\jl\res</ResolvedResourceDirectory>
-    <ResolvedResourceDirectory>C:\Users\samy\Desktop\SIT313 Ass2\final\final\XWeather-master\XWeather\Droid\obj\Debug\MonoAndroid60\lp\5\jl\res</ResolvedResourceDirectory>
-    <ResolvedResourceDirectory>C:\Users\samy\Desktop\SIT313 Ass2\final\final\XWeather-master\XWeather\Droid\obj\Debug\MonoAndroid60\lp\6\jl\res</ResolvedResourceDirectory>
-    <ResolvedResourceDirectory>C:\Users\samy\Desktop\SIT313 Ass2\final\final\XWeather-master\XWeather\Droid\obj\Debug\MonoAndroid60\lp\7\jl\res</ResolvedResourceDirectory>
-    <ResolvedResourceDirectory>C:\Users\samy\Desktop\SIT313 Ass2\final\final\XWeather-master\XWeather\Droid\obj\Debug\MonoAndroid60\lp\8\jl\res</ResolvedResourceDirectory>
-    <ResolvedResourceDirectory>C:\Users\samy\Desktop\SIT313 Ass2\final\final\XWeather-master\XWeather\Droid\obj\Debug\MonoAndroid60\lp\12\jl\res</ResolvedResourceDirectory>
-    <ResolvedResourceDirectory>C:\Users\samy\Desktop\SIT313 Ass2\final\final\XWeather-master\XWeather\Droid\obj\Debug\MonoAndroid60\lp\16\jl\res</ResolvedResourceDirectory>
-    <ResolvedResourceDirectory>C:\Users\samy\Desktop\SIT313 Ass2\final\final\XWeather-master\XWeather\Droid\obj\Debug\MonoAndroid60\lp\26\jl\res</ResolvedResourceDirectory>
-    <ResolvedResourceDirectory>C:\Users\samy\Desktop\SIT313 Ass2\final\final\XWeather-master\XWeather\Droid\obj\Debug\MonoAndroid60\lp\28\jl\res</ResolvedResourceDirectory>
-    <ResolvedResourceDirectory>C:\Users\samy\Desktop\SIT313 Ass2\final\final\XWeather-master\XWeather\Droid\obj\Debug\MonoAndroid60\lp\31\jl\res</ResolvedResourceDirectory>
-    <ResolvedResourceDirectory>C:\Users\samy\Desktop\SIT313 Ass2\final\final\XWeather-master\XWeather\Droid\obj\Debug\MonoAndroid60\lp\32\jl\res</ResolvedResourceDirectory>
-    <ResolvedResourceDirectory>C:\Users\samy\Desktop\SIT313 Ass2\final\final\XWeather-master\XWeather\Droid\obj\Debug\MonoAndroid60\lp\33\jl\res</ResolvedResourceDirectory>
-    <ResolvedResourceDirectory>C:\Users\samy\Desktop\SIT313 Ass2\final\final\XWeather-master\XWeather\Droid\obj\Debug\MonoAndroid60\lp\35\jl\res</ResolvedResourceDirectory>
-    <ResolvedResourceDirectory>C:\Users\samy\Desktop\SIT313 Ass2\final\final\XWeather-master\XWeather\Droid\obj\Debug\MonoAndroid60\lp\37\jl\res</ResolvedResourceDirectory>
-    <ResolvedResourceDirectory>C:\Users\samy\Desktop\SIT313 Ass2\final\final\XWeather-master\XWeather\Droid\obj\Debug\MonoAndroid60\lp\38\jl\res</ResolvedResourceDirectory>
+    <ResolvedResourceDirectory>C:\Users\samy\Documents\GitHub\Weather-app\XWeather\Droid\obj\Debug\MonoAndroid60\lp\0\jl\res</ResolvedResourceDirectory>
+    <ResolvedResourceDirectory>C:\Users\samy\Documents\GitHub\Weather-app\XWeather\Droid\obj\Debug\MonoAndroid60\lp\1\jl\res</ResolvedResourceDirectory>
+    <ResolvedResourceDirectory>C:\Users\samy\Documents\GitHub\Weather-app\XWeather\Droid\obj\Debug\MonoAndroid60\lp\2\jl\res</ResolvedResourceDirectory>
+    <ResolvedResourceDirectory>C:\Users\samy\Documents\GitHub\Weather-app\XWeather\Droid\obj\Debug\MonoAndroid60\lp\3\jl\res</ResolvedResourceDirectory>
+    <ResolvedResourceDirectory>C:\Users\samy\Documents\GitHub\Weather-app\XWeather\Droid\obj\Debug\MonoAndroid60\lp\4\jl\res</ResolvedResourceDirectory>
+    <ResolvedResourceDirectory>C:\Users\samy\Documents\GitHub\Weather-app\XWeather\Droid\obj\Debug\MonoAndroid60\lp\5\jl\res</ResolvedResourceDirectory>
+    <ResolvedResourceDirectory>C:\Users\samy\Documents\GitHub\Weather-app\XWeather\Droid\obj\Debug\MonoAndroid60\lp\6\jl\res</ResolvedResourceDirectory>
+    <ResolvedResourceDirectory>C:\Users\samy\Documents\GitHub\Weather-app\XWeather\Droid\obj\Debug\MonoAndroid60\lp\7\jl\res</ResolvedResourceDirectory>
+    <ResolvedResourceDirectory>C:\Users\samy\Documents\GitHub\Weather-app\XWeather\Droid\obj\Debug\MonoAndroid60\lp\8\jl\res</ResolvedResourceDirectory>
+    <ResolvedResourceDirectory>C:\Users\samy\Documents\GitHub\Weather-app\XWeather\Droid\obj\Debug\MonoAndroid60\lp\12\jl\res</ResolvedResourceDirectory>
+    <ResolvedResourceDirectory>C:\Users\samy\Documents\GitHub\Weather-app\XWeather\Droid\obj\Debug\MonoAndroid60\lp\16\jl\res</ResolvedResourceDirectory>
+    <ResolvedResourceDirectory>C:\Users\samy\Documents\GitHub\Weather-app\XWeather\Droid\obj\Debug\MonoAndroid60\lp\26\jl\res</ResolvedResourceDirectory>
+    <ResolvedResourceDirectory>C:\Users\samy\Documents\GitHub\Weather-app\XWeather\Droid\obj\Debug\MonoAndroid60\lp\28\jl\res</ResolvedResourceDirectory>
+    <ResolvedResourceDirectory>C:\Users\samy\Documents\GitHub\Weather-app\XWeather\Droid\obj\Debug\MonoAndroid60\lp\31\jl\res</ResolvedResourceDirectory>
+    <ResolvedResourceDirectory>C:\Users\samy\Documents\GitHub\Weather-app\XWeather\Droid\obj\Debug\MonoAndroid60\lp\32\jl\res</ResolvedResourceDirectory>
+    <ResolvedResourceDirectory>C:\Users\samy\Documents\GitHub\Weather-app\XWeather\Droid\obj\Debug\MonoAndroid60\lp\33\jl\res</ResolvedResourceDirectory>
+    <ResolvedResourceDirectory>C:\Users\samy\Documents\GitHub\Weather-app\XWeather\Droid\obj\Debug\MonoAndroid60\lp\35\jl\res</ResolvedResourceDirectory>
+    <ResolvedResourceDirectory>C:\Users\samy\Documents\GitHub\Weather-app\XWeather\Droid\obj\Debug\MonoAndroid60\lp\37\jl\res</ResolvedResourceDirectory>
+    <ResolvedResourceDirectory>C:\Users\samy\Documents\GitHub\Weather-app\XWeather\Droid\obj\Debug\MonoAndroid60\lp\38\jl\res</ResolvedResourceDirectory>
   </ResolvedResourceDirectories>
   <ResolvedAssetDirectories>
     <ResolvedAssetDirectory>obj\\Debug\MonoAndroid60\lp\0\jl\assets</ResolvedAssetDirectory>
@@ -61,24 +61,24 @@
   </ResolvedAssetDirectories>
   <ResolvedEnvironmentFiles />
   <ResolvedResourceDirectoryStamps>
-    <ResolvedResourceDirectoryStamp>C:\Users\samy\Desktop\SIT313 Ass2\final\final\XWeather-master\XWeather\Droid\obj\Debug\MonoAndroid60\lp\0.stamp</ResolvedResourceDirectoryStamp>
-    <ResolvedResourceDirectoryStamp>C:\Users\samy\Desktop\SIT313 Ass2\final\final\XWeather-master\XWeather\Droid\obj\Debug\MonoAndroid60\lp\1.stamp</ResolvedResourceDirectoryStamp>
-    <ResolvedResourceDirectoryStamp>C:\Users\samy\Desktop\SIT313 Ass2\final\final\XWeather-master\XWeather\Droid\obj\Debug\MonoAndroid60\lp\2.stamp</ResolvedResourceDirectoryStamp>
-    <ResolvedResourceDirectoryStamp>C:\Users\samy\Desktop\SIT313 Ass2\final\final\XWeather-master\XWeather\Droid\obj\Debug\MonoAndroid60\lp\3.stamp</ResolvedResourceDirectoryStamp>
-    <ResolvedResourceDirectoryStamp>C:\Users\samy\Desktop\SIT313 Ass2\final\final\XWeather-master\XWeather\Droid\obj\Debug\MonoAndroid60\lp\4.stamp</ResolvedResourceDirectoryStamp>
-    <ResolvedResourceDirectoryStamp>C:\Users\samy\Desktop\SIT313 Ass2\final\final\XWeather-master\XWeather\Droid\obj\Debug\MonoAndroid60\lp\5.stamp</ResolvedResourceDirectoryStamp>
-    <ResolvedResourceDirectoryStamp>C:\Users\samy\Desktop\SIT313 Ass2\final\final\XWeather-master\XWeather\Droid\obj\Debug\MonoAndroid60\lp\6.stamp</ResolvedResourceDirectoryStamp>
-    <ResolvedResourceDirectoryStamp>C:\Users\samy\Desktop\SIT313 Ass2\final\final\XWeather-master\XWeather\Droid\obj\Debug\MonoAndroid60\lp\7.stamp</ResolvedResourceDirectoryStamp>
-    <ResolvedResourceDirectoryStamp>C:\Users\samy\Desktop\SIT313 Ass2\final\final\XWeather-master\XWeather\Droid\obj\Debug\MonoAndroid60\lp\8.stamp</ResolvedResourceDirectoryStamp>
-    <ResolvedResourceDirectoryStamp>C:\Users\samy\Desktop\SIT313 Ass2\final\final\XWeather-master\XWeather\Droid\obj\Debug\MonoAndroid60\lp\12.stamp</ResolvedResourceDirectoryStamp>
-    <ResolvedResourceDirectoryStamp>C:\Users\samy\Desktop\SIT313 Ass2\final\final\XWeather-master\XWeather\Droid\obj\Debug\MonoAndroid60\lp\16.stamp</ResolvedResourceDirectoryStamp>
-    <ResolvedResourceDirectoryStamp>C:\Users\samy\Desktop\SIT313 Ass2\final\final\XWeather-master\XWeather\Droid\obj\Debug\MonoAndroid60\lp\26.stamp</ResolvedResourceDirectoryStamp>
-    <ResolvedResourceDirectoryStamp>C:\Users\samy\Desktop\SIT313 Ass2\final\final\XWeather-master\XWeather\Droid\obj\Debug\MonoAndroid60\lp\28.stamp</ResolvedResourceDirectoryStamp>
-    <ResolvedResourceDirectoryStamp>C:\Users\samy\Desktop\SIT313 Ass2\final\final\XWeather-master\XWeather\Droid\obj\Debug\MonoAndroid60\lp\31.stamp</ResolvedResourceDirectoryStamp>
-    <ResolvedResourceDirectoryStamp>C:\Users\samy\Desktop\SIT313 Ass2\final\final\XWeather-master\XWeather\Droid\obj\Debug\MonoAndroid60\lp\32.stamp</ResolvedResourceDirectoryStamp>
-    <ResolvedResourceDirectoryStamp>C:\Users\samy\Desktop\SIT313 Ass2\final\final\XWeather-master\XWeather\Droid\obj\Debug\MonoAndroid60\lp\33.stamp</ResolvedResourceDirectoryStamp>
-    <ResolvedResourceDirectoryStamp>C:\Users\samy\Desktop\SIT313 Ass2\final\final\XWeather-master\XWeather\Droid\obj\Debug\MonoAndroid60\lp\35.stamp</ResolvedResourceDirectoryStamp>
-    <ResolvedResourceDirectoryStamp>C:\Users\samy\Desktop\SIT313 Ass2\final\final\XWeather-master\XWeather\Droid\obj\Debug\MonoAndroid60\lp\37.stamp</ResolvedResourceDirectoryStamp>
-    <ResolvedResourceDirectoryStamp>C:\Users\samy\Desktop\SIT313 Ass2\final\final\XWeather-master\XWeather\Droid\obj\Debug\MonoAndroid60\lp\38.stamp</ResolvedResourceDirectoryStamp>
+    <ResolvedResourceDirectoryStamp>C:\Users\samy\Documents\GitHub\Weather-app\XWeather\Droid\obj\Debug\MonoAndroid60\lp\0.stamp</ResolvedResourceDirectoryStamp>
+    <ResolvedResourceDirectoryStamp>C:\Users\samy\Documents\GitHub\Weather-app\XWeather\Droid\obj\Debug\MonoAndroid60\lp\1.stamp</ResolvedResourceDirectoryStamp>
+    <ResolvedResourceDirectoryStamp>C:\Users\samy\Documents\GitHub\Weather-app\XWeather\Droid\obj\Debug\MonoAndroid60\lp\2.stamp</ResolvedResourceDirectoryStamp>
+    <ResolvedResourceDirectoryStamp>C:\Users\samy\Documents\GitHub\Weather-app\XWeather\Droid\obj\Debug\MonoAndroid60\lp\3.stamp</ResolvedResourceDirectoryStamp>
+    <ResolvedResourceDirectoryStamp>C:\Users\samy\Documents\GitHub\Weather-app\XWeather\Droid\obj\Debug\MonoAndroid60\lp\4.stamp</ResolvedResourceDirectoryStamp>
+    <ResolvedResourceDirectoryStamp>C:\Users\samy\Documents\GitHub\Weather-app\XWeather\Droid\obj\Debug\MonoAndroid60\lp\5.stamp</ResolvedResourceDirectoryStamp>
+    <ResolvedResourceDirectoryStamp>C:\Users\samy\Documents\GitHub\Weather-app\XWeather\Droid\obj\Debug\MonoAndroid60\lp\6.stamp</ResolvedResourceDirectoryStamp>
+    <ResolvedResourceDirectoryStamp>C:\Users\samy\Documents\GitHub\Weather-app\XWeather\Droid\obj\Debug\MonoAndroid60\lp\7.stamp</ResolvedResourceDirectoryStamp>
+    <ResolvedResourceDirectoryStamp>C:\Users\samy\Documents\GitHub\Weather-app\XWeather\Droid\obj\Debug\MonoAndroid60\lp\8.stamp</ResolvedResourceDirectoryStamp>
+    <ResolvedResourceDirectoryStamp>C:\Users\samy\Documents\GitHub\Weather-app\XWeather\Droid\obj\Debug\MonoAndroid60\lp\12.stamp</ResolvedResourceDirectoryStamp>
+    <ResolvedResourceDirectoryStamp>C:\Users\samy\Documents\GitHub\Weather-app\XWeather\Droid\obj\Debug\MonoAndroid60\lp\16.stamp</ResolvedResourceDirectoryStamp>
+    <ResolvedResourceDirectoryStamp>C:\Users\samy\Documents\GitHub\Weather-app\XWeather\Droid\obj\Debug\MonoAndroid60\lp\26.stamp</ResolvedResourceDirectoryStamp>
+    <ResolvedResourceDirectoryStamp>C:\Users\samy\Documents\GitHub\Weather-app\XWeather\Droid\obj\Debug\MonoAndroid60\lp\28.stamp</ResolvedResourceDirectoryStamp>
+    <ResolvedResourceDirectoryStamp>C:\Users\samy\Documents\GitHub\Weather-app\XWeather\Droid\obj\Debug\MonoAndroid60\lp\31.stamp</ResolvedResourceDirectoryStamp>
+    <ResolvedResourceDirectoryStamp>C:\Users\samy\Documents\GitHub\Weather-app\XWeather\Droid\obj\Debug\MonoAndroid60\lp\32.stamp</ResolvedResourceDirectoryStamp>
+    <ResolvedResourceDirectoryStamp>C:\Users\samy\Documents\GitHub\Weather-app\XWeather\Droid\obj\Debug\MonoAndroid60\lp\33.stamp</ResolvedResourceDirectoryStamp>
+    <ResolvedResourceDirectoryStamp>C:\Users\samy\Documents\GitHub\Weather-app\XWeather\Droid\obj\Debug\MonoAndroid60\lp\35.stamp</ResolvedResourceDirectoryStamp>
+    <ResolvedResourceDirectoryStamp>C:\Users\samy\Documents\GitHub\Weather-app\XWeather\Droid\obj\Debug\MonoAndroid60\lp\37.stamp</ResolvedResourceDirectoryStamp>
+    <ResolvedResourceDirectoryStamp>C:\Users\samy\Documents\GitHub\Weather-app\XWeather\Droid\obj\Debug\MonoAndroid60\lp\38.stamp</ResolvedResourceDirectoryStamp>
   </ResolvedResourceDirectoryStamps>
 </Paths>
