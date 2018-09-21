@@ -26,7 +26,7 @@ namespace XWeather.Shared
 		{
 			CrossVersionTracking.Current.Track ();
 
-			// Crashes.GetErrorAttachment = (report) => ErrorAttachment.AttachmentWithText (CrossVersionTracking.Current.ToString ());
+			
 #if __IOS__
 			Microsoft.Azure.Mobile.Distribute.Distribute.DontCheckForUpdatesInDebug ();
 #endif
@@ -39,7 +39,7 @@ namespace XWeather.Shared
 
 			PclExportClient.Configure ();
 
-			// JsonHttpClient.GlobalHttpMessageHandlerFactory = () => new NativeMessageHandler ();
+			// JsonHttpClient.GlobalHttpMessageHandlerFactory
 
 			Settings.RegisterDefaultSettings ();
 			Settings.SetUomDefaults (CrossVersionTracking.Current.IsFirstLaunchEver);
