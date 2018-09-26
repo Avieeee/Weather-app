@@ -1,214 +1,214 @@
-C:\Users\samy\Desktop\SIT313 Ass2\final\final\XWeather-master\XWeather\Droid\bin\Debug\XWeather.Droid.dll
-C:\Users\samy\Desktop\SIT313 Ass2\final\final\XWeather-master\XWeather\Droid\bin\Debug\XWeather.Droid.pdb
-C:\Users\samy\Desktop\SIT313 Ass2\final\final\XWeather-master\XWeather\Droid\bin\Debug\com.xamarin.xweather.apk
-C:\Users\samy\Desktop\SIT313 Ass2\final\final\XWeather-master\XWeather\Droid\bin\Debug\com.xamarin.xweather-Signed.apk
-C:\Users\samy\Desktop\SIT313 Ass2\final\final\XWeather-master\XWeather\Droid\bin\Debug\Microsoft.Azure.Mobile.Analytics.Android.Bindings.dll
-C:\Users\samy\Desktop\SIT313 Ass2\final\final\XWeather-master\XWeather\Droid\bin\Debug\Microsoft.Azure.Mobile.Analytics.dll
-C:\Users\samy\Desktop\SIT313 Ass2\final\final\XWeather-master\XWeather\Droid\bin\Debug\Microsoft.Azure.Mobile.Android.Bindings.dll
-C:\Users\samy\Desktop\SIT313 Ass2\final\final\XWeather-master\XWeather\Droid\bin\Debug\Microsoft.Azure.Mobile.Crashes.Android.Bindings.dll
-C:\Users\samy\Desktop\SIT313 Ass2\final\final\XWeather-master\XWeather\Droid\bin\Debug\Microsoft.Azure.Mobile.Crashes.dll
-C:\Users\samy\Desktop\SIT313 Ass2\final\final\XWeather-master\XWeather\Droid\bin\Debug\Microsoft.Azure.Mobile.Distribute.Android.Bindings.dll
-C:\Users\samy\Desktop\SIT313 Ass2\final\final\XWeather-master\XWeather\Droid\bin\Debug\Microsoft.Azure.Mobile.Distribute.dll
-C:\Users\samy\Desktop\SIT313 Ass2\final\final\XWeather-master\XWeather\Droid\bin\Debug\Microsoft.Azure.Mobile.dll
-C:\Users\samy\Desktop\SIT313 Ass2\final\final\XWeather-master\XWeather\Droid\bin\Debug\ModernHttpClient.dll
-C:\Users\samy\Desktop\SIT313 Ass2\final\final\XWeather-master\XWeather\Droid\bin\Debug\Newtonsoft.Json.dll
-C:\Users\samy\Desktop\SIT313 Ass2\final\final\XWeather-master\XWeather\Droid\bin\Debug\OkHttp.dll
-C:\Users\samy\Desktop\SIT313 Ass2\final\final\XWeather-master\XWeather\Droid\bin\Debug\Plugin.VersionTracking.Abstractions.dll
-C:\Users\samy\Desktop\SIT313 Ass2\final\final\XWeather-master\XWeather\Droid\bin\Debug\Plugin.VersionTracking.dll
-C:\Users\samy\Desktop\SIT313 Ass2\final\final\XWeather-master\XWeather\Droid\bin\Debug\ServiceStack.Client.dll
-C:\Users\samy\Desktop\SIT313 Ass2\final\final\XWeather-master\XWeather\Droid\bin\Debug\ServiceStack.HttpClient.dll
-C:\Users\samy\Desktop\SIT313 Ass2\final\final\XWeather-master\XWeather\Droid\bin\Debug\ServiceStack.Interfaces.dll
-C:\Users\samy\Desktop\SIT313 Ass2\final\final\XWeather-master\XWeather\Droid\bin\Debug\ServiceStack.Pcl.Android.dll
-C:\Users\samy\Desktop\SIT313 Ass2\final\final\XWeather-master\XWeather\Droid\bin\Debug\ServiceStack.Text.dll
-C:\Users\samy\Desktop\SIT313 Ass2\final\final\XWeather-master\XWeather\Droid\bin\Debug\System.Net.Http.Extensions.dll
-C:\Users\samy\Desktop\SIT313 Ass2\final\final\XWeather-master\XWeather\Droid\bin\Debug\System.Net.Http.Primitives.dll
-C:\Users\samy\Desktop\SIT313 Ass2\final\final\XWeather-master\XWeather\Droid\bin\Debug\Xamarin.Android.Support.Animated.Vector.Drawable.dll
-C:\Users\samy\Desktop\SIT313 Ass2\final\final\XWeather-master\XWeather\Droid\bin\Debug\Xamarin.Android.Support.Compat.dll
-C:\Users\samy\Desktop\SIT313 Ass2\final\final\XWeather-master\XWeather\Droid\bin\Debug\Xamarin.Android.Support.Core.UI.dll
-C:\Users\samy\Desktop\SIT313 Ass2\final\final\XWeather-master\XWeather\Droid\bin\Debug\Xamarin.Android.Support.Core.Utils.dll
-C:\Users\samy\Desktop\SIT313 Ass2\final\final\XWeather-master\XWeather\Droid\bin\Debug\Xamarin.Android.Support.Design.dll
-C:\Users\samy\Desktop\SIT313 Ass2\final\final\XWeather-master\XWeather\Droid\bin\Debug\Xamarin.Android.Support.Fragment.dll
-C:\Users\samy\Desktop\SIT313 Ass2\final\final\XWeather-master\XWeather\Droid\bin\Debug\Xamarin.Android.Support.Media.Compat.dll
-C:\Users\samy\Desktop\SIT313 Ass2\final\final\XWeather-master\XWeather\Droid\bin\Debug\Xamarin.Android.Support.Transition.dll
-C:\Users\samy\Desktop\SIT313 Ass2\final\final\XWeather-master\XWeather\Droid\bin\Debug\Xamarin.Android.Support.v4.dll
-C:\Users\samy\Desktop\SIT313 Ass2\final\final\XWeather-master\XWeather\Droid\bin\Debug\Xamarin.Android.Support.v7.AppCompat.dll
-C:\Users\samy\Desktop\SIT313 Ass2\final\final\XWeather-master\XWeather\Droid\bin\Debug\Xamarin.Android.Support.v7.CardView.dll
-C:\Users\samy\Desktop\SIT313 Ass2\final\final\XWeather-master\XWeather\Droid\bin\Debug\Xamarin.Android.Support.v7.RecyclerView.dll
-C:\Users\samy\Desktop\SIT313 Ass2\final\final\XWeather-master\XWeather\Droid\bin\Debug\Xamarin.Android.Support.Vector.Drawable.dll
-C:\Users\samy\Desktop\SIT313 Ass2\final\final\XWeather-master\XWeather\Droid\bin\Debug\Xamarin.GooglePlayServices.Base.dll
-C:\Users\samy\Desktop\SIT313 Ass2\final\final\XWeather-master\XWeather\Droid\bin\Debug\Xamarin.GooglePlayServices.Basement.dll
-C:\Users\samy\Desktop\SIT313 Ass2\final\final\XWeather-master\XWeather\Droid\bin\Debug\Xamarin.GooglePlayServices.Location.dll
-C:\Users\samy\Desktop\SIT313 Ass2\final\final\XWeather-master\XWeather\Droid\bin\Debug\Xamarin.GooglePlayServices.Maps.dll
-C:\Users\samy\Desktop\SIT313 Ass2\final\final\XWeather-master\XWeather\Droid\bin\Debug\Xamarin.GooglePlayServices.Tasks.dll
-C:\Users\samy\Desktop\SIT313 Ass2\final\final\XWeather-master\XWeather\Droid\bin\Debug\Plugin.VersionTracking.Abstractions.pdb
-C:\Users\samy\Desktop\SIT313 Ass2\final\final\XWeather-master\XWeather\Droid\bin\Debug\Plugin.VersionTracking.Abstractions.xml
-C:\Users\samy\Desktop\SIT313 Ass2\final\final\XWeather-master\XWeather\Droid\bin\Debug\Plugin.VersionTracking.pdb
-C:\Users\samy\Desktop\SIT313 Ass2\final\final\XWeather-master\XWeather\Droid\bin\Debug\Plugin.VersionTracking.xml
-C:\Users\samy\Desktop\SIT313 Ass2\final\final\XWeather-master\XWeather\Droid\bin\Debug\System.Net.Http.Extensions.xml
-C:\Users\samy\Desktop\SIT313 Ass2\final\final\XWeather-master\XWeather\Droid\bin\Debug\System.Net.Http.Primitives.xml
-C:\Users\samy\Desktop\SIT313 Ass2\final\final\XWeather-master\XWeather\Droid\bin\Debug\ModernHttpClient.dll.mdb
-C:\Users\samy\Desktop\SIT313 Ass2\final\final\XWeather-master\XWeather\Droid\bin\Debug\Newtonsoft.Json.xml
-C:\Users\samy\Desktop\SIT313 Ass2\final\final\XWeather-master\XWeather\Droid\obj\Debug\MonoAndroid60\XWeather.Droid.csprojAssemblyReference.cache
-C:\Users\samy\Desktop\SIT313 Ass2\final\final\XWeather-master\XWeather\Droid\obj\Debug\MonoAndroid60\XbdMerge\Xamarin.Android.Support.Compat.dll
-C:\Users\samy\Desktop\SIT313 Ass2\final\final\XWeather-master\XWeather\Droid\obj\Debug\MonoAndroid60\XbdMerge\Xamarin.Android.Support.Core.UI.dll
-C:\Users\samy\Desktop\SIT313 Ass2\final\final\XWeather-master\XWeather\Droid\obj\Debug\MonoAndroid60\XbdMerge\Xamarin.Android.Support.Core.Utils.dll
-C:\Users\samy\Desktop\SIT313 Ass2\final\final\XWeather-master\XWeather\Droid\obj\Debug\MonoAndroid60\XbdMerge\Xamarin.Android.Support.Media.Compat.dll
-C:\Users\samy\Desktop\SIT313 Ass2\final\final\XWeather-master\XWeather\Droid\obj\Debug\MonoAndroid60\XbdMerge\Xamarin.Android.Support.Fragment.dll
-C:\Users\samy\Desktop\SIT313 Ass2\final\final\XWeather-master\XWeather\Droid\obj\Debug\MonoAndroid60\XbdMerge\Xamarin.Android.Support.Transition.dll
-C:\Users\samy\Desktop\SIT313 Ass2\final\final\XWeather-master\XWeather\Droid\obj\Debug\MonoAndroid60\XbdMerge\Xamarin.Android.Support.v4.dll
-C:\Users\samy\Desktop\SIT313 Ass2\final\final\XWeather-master\XWeather\Droid\obj\Debug\MonoAndroid60\XbdMerge\Xamarin.Android.Support.v7.RecyclerView.dll
-C:\Users\samy\Desktop\SIT313 Ass2\final\final\XWeather-master\XWeather\Droid\obj\Debug\MonoAndroid60\XbdMerge\Xamarin.Android.Support.Vector.Drawable.dll
-C:\Users\samy\Desktop\SIT313 Ass2\final\final\XWeather-master\XWeather\Droid\obj\Debug\MonoAndroid60\XbdMerge\Xamarin.Android.Support.Animated.Vector.Drawable.dll
-C:\Users\samy\Desktop\SIT313 Ass2\final\final\XWeather-master\XWeather\Droid\obj\Debug\MonoAndroid60\XbdMerge\Xamarin.Android.Support.v7.AppCompat.dll
-C:\Users\samy\Desktop\SIT313 Ass2\final\final\XWeather-master\XWeather\Droid\obj\Debug\MonoAndroid60\XbdMerge\Xamarin.Android.Support.Design.dll
-C:\Users\samy\Desktop\SIT313 Ass2\final\final\XWeather-master\XWeather\Droid\obj\Debug\MonoAndroid60\XbdMerge\Xamarin.GooglePlayServices.Basement.dll
-C:\Users\samy\Desktop\SIT313 Ass2\final\final\XWeather-master\XWeather\Droid\obj\Debug\MonoAndroid60\XbdMerge\Xamarin.GooglePlayServices.Tasks.dll
-C:\Users\samy\Desktop\SIT313 Ass2\final\final\XWeather-master\XWeather\Droid\obj\Debug\MonoAndroid60\XbdMerge\Xamarin.GooglePlayServices.Base.dll
-C:\Users\samy\Desktop\SIT313 Ass2\final\final\XWeather-master\XWeather\Droid\obj\Debug\MonoAndroid60\XbdMerge\Xamarin.GooglePlayServices.Location.dll
-C:\Users\samy\Desktop\SIT313 Ass2\final\final\XWeather-master\XWeather\Droid\obj\Debug\MonoAndroid60\XbdMerge\Xamarin.GooglePlayServices.Maps.dll
-C:\Users\samy\Desktop\SIT313 Ass2\final\final\XWeather-master\XWeather\Droid\obj\Debug\MonoAndroid60\XbdMerge\Xamarin.Android.Support.v7.CardView.dll
-C:\Users\samy\Desktop\SIT313 Ass2\final\final\XWeather-master\XWeather\Droid\obj\Debug\MonoAndroid60\res.flag
-C:\Users\samy\Desktop\SIT313 Ass2\final\final\XWeather-master\XWeather\Droid\obj\Debug\MonoAndroid60\XWeather.Droid.csproj.CoreCompileInputs.cache
-C:\Users\samy\Desktop\SIT313 Ass2\final\final\XWeather-master\XWeather\Droid\obj\Debug\MonoAndroid60\XWeather.Droid.csproj.CopyComplete
-C:\Users\samy\Desktop\SIT313 Ass2\final\final\XWeather-master\XWeather\Droid\obj\Debug\MonoAndroid60\XWeather.Droid.dll
-C:\Users\samy\Desktop\SIT313 Ass2\final\final\XWeather-master\XWeather\Droid\obj\Debug\MonoAndroid60\XWeather.Droid.pdb
-C:\Users\samy\Desktop\SIT313 Ass2\final\final\XWeather-master\XWeather\Droid\obj\Debug\MonoAndroid60\android\bin\com.xamarin.xweather.apk
-C:\Users\samy\Desktop\SIT313 Ass2\final\final\XWeather-master\XWeather\Droid\obj\Debug\MonoAndroid60\res\values\strings.xml
-C:\Users\samy\Desktop\SIT313 Ass2\final\final\XWeather-master\XWeather\Droid\obj\Debug\MonoAndroid60\res\mipmap-hdpi\icon.png
-C:\Users\samy\Desktop\SIT313 Ass2\final\final\XWeather-master\XWeather\Droid\obj\Debug\MonoAndroid60\res\mipmap-mdpi\icon.png
-C:\Users\samy\Desktop\SIT313 Ass2\final\final\XWeather-master\XWeather\Droid\obj\Debug\MonoAndroid60\res\mipmap-xhdpi\icon.png
-C:\Users\samy\Desktop\SIT313 Ass2\final\final\XWeather-master\XWeather\Droid\obj\Debug\MonoAndroid60\res\mipmap-xxhdpi\icon.png
-C:\Users\samy\Desktop\SIT313 Ass2\final\final\XWeather-master\XWeather\Droid\obj\Debug\MonoAndroid60\res\mipmap-xxxhdpi\icon.png
-C:\Users\samy\Desktop\SIT313 Ass2\final\final\XWeather-master\XWeather\Droid\obj\Debug\MonoAndroid60\res\layout\weatheractivity.xml
-C:\Users\samy\Desktop\SIT313 Ass2\final\final\XWeather-master\XWeather\Droid\obj\Debug\MonoAndroid60\res\layout\toolbar.xml
-C:\Users\samy\Desktop\SIT313 Ass2\final\final\XWeather-master\XWeather\Droid\obj\Debug\MonoAndroid60\res\layout\recyclerviewfragment.xml
-C:\Users\samy\Desktop\SIT313 Ass2\final\final\XWeather-master\XWeather\Droid\obj\Debug\MonoAndroid60\res\layout\hourlylistitem.xml
-C:\Users\samy\Desktop\SIT313 Ass2\final\final\XWeather-master\XWeather\Droid\obj\Debug\MonoAndroid60\res\layout\dailylistitem.xml
-C:\Users\samy\Desktop\SIT313 Ass2\final\final\XWeather-master\XWeather\Droid\obj\Debug\MonoAndroid60\res\layout\detailslistitem.xml
-C:\Users\samy\Desktop\SIT313 Ass2\final\final\XWeather-master\XWeather\Droid\obj\Debug\MonoAndroid60\res\layout\locationlistitem.xml
-C:\Users\samy\Desktop\SIT313 Ass2\final\final\XWeather-master\XWeather\Droid\obj\Debug\MonoAndroid60\res\values\colors.xml
-C:\Users\samy\Desktop\SIT313 Ass2\final\final\XWeather-master\XWeather\Droid\obj\Debug\MonoAndroid60\res\values\styles.xml
-C:\Users\samy\Desktop\SIT313 Ass2\final\final\XWeather-master\XWeather\Droid\obj\Debug\MonoAndroid60\res\values\dimens.xml
-C:\Users\samy\Desktop\SIT313 Ass2\final\final\XWeather-master\XWeather\Droid\obj\Debug\MonoAndroid60\res\values\attrs.xml
-C:\Users\samy\Desktop\SIT313 Ass2\final\final\XWeather-master\XWeather\Droid\obj\Debug\MonoAndroid60\res\drawable\chanceflurries.xml
-C:\Users\samy\Desktop\SIT313 Ass2\final\final\XWeather-master\XWeather\Droid\obj\Debug\MonoAndroid60\res\drawable\chancerain.xml
-C:\Users\samy\Desktop\SIT313 Ass2\final\final\XWeather-master\XWeather\Droid\obj\Debug\MonoAndroid60\res\drawable\chancesleet.xml
-C:\Users\samy\Desktop\SIT313 Ass2\final\final\XWeather-master\XWeather\Droid\obj\Debug\MonoAndroid60\res\drawable\chancesnow.xml
-C:\Users\samy\Desktop\SIT313 Ass2\final\final\XWeather-master\XWeather\Droid\obj\Debug\MonoAndroid60\res\drawable\chancetstorms.xml
-C:\Users\samy\Desktop\SIT313 Ass2\final\final\XWeather-master\XWeather\Droid\obj\Debug\MonoAndroid60\res\drawable\clear.xml
-C:\Users\samy\Desktop\SIT313 Ass2\final\final\XWeather-master\XWeather\Droid\obj\Debug\MonoAndroid60\res\drawable\cloudy.xml
-C:\Users\samy\Desktop\SIT313 Ass2\final\final\XWeather-master\XWeather\Droid\obj\Debug\MonoAndroid60\res\drawable\flurries.xml
-C:\Users\samy\Desktop\SIT313 Ass2\final\final\XWeather-master\XWeather\Droid\obj\Debug\MonoAndroid60\res\drawable\fog.xml
-C:\Users\samy\Desktop\SIT313 Ass2\final\final\XWeather-master\XWeather\Droid\obj\Debug\MonoAndroid60\res\drawable\hazy.xml
-C:\Users\samy\Desktop\SIT313 Ass2\final\final\XWeather-master\XWeather\Droid\obj\Debug\MonoAndroid60\res\drawable\i_add_sm.xml
-C:\Users\samy\Desktop\SIT313 Ass2\final\final\XWeather-master\XWeather\Droid\obj\Debug\MonoAndroid60\res\drawable\i_add.xml
-C:\Users\samy\Desktop\SIT313 Ass2\final\final\XWeather-master\XWeather\Droid\obj\Debug\MonoAndroid60\res\drawable\i_close.xml
-C:\Users\samy\Desktop\SIT313 Ass2\final\final\XWeather-master\XWeather\Droid\obj\Debug\MonoAndroid60\res\drawable\i_cog.xml
-C:\Users\samy\Desktop\SIT313 Ass2\final\final\XWeather-master\XWeather\Droid\obj\Debug\MonoAndroid60\res\drawable\mostlycloudy.xml
-C:\Users\samy\Desktop\SIT313 Ass2\final\final\XWeather-master\XWeather\Droid\obj\Debug\MonoAndroid60\res\drawable\mostlysunny.xml
-C:\Users\samy\Desktop\SIT313 Ass2\final\final\XWeather-master\XWeather\Droid\obj\Debug\MonoAndroid60\res\drawable\nt_chanceflurries.xml
-C:\Users\samy\Desktop\SIT313 Ass2\final\final\XWeather-master\XWeather\Droid\obj\Debug\MonoAndroid60\res\drawable\nt_chancerain.xml
-C:\Users\samy\Desktop\SIT313 Ass2\final\final\XWeather-master\XWeather\Droid\obj\Debug\MonoAndroid60\res\drawable\nt_chancesleet.xml
-C:\Users\samy\Desktop\SIT313 Ass2\final\final\XWeather-master\XWeather\Droid\obj\Debug\MonoAndroid60\res\drawable\nt_chancesnow.xml
-C:\Users\samy\Desktop\SIT313 Ass2\final\final\XWeather-master\XWeather\Droid\obj\Debug\MonoAndroid60\res\drawable\nt_chancetstorms.xml
-C:\Users\samy\Desktop\SIT313 Ass2\final\final\XWeather-master\XWeather\Droid\obj\Debug\MonoAndroid60\res\drawable\nt_clear.xml
-C:\Users\samy\Desktop\SIT313 Ass2\final\final\XWeather-master\XWeather\Droid\obj\Debug\MonoAndroid60\res\drawable\nt_cloudy.xml
-C:\Users\samy\Desktop\SIT313 Ass2\final\final\XWeather-master\XWeather\Droid\obj\Debug\MonoAndroid60\res\drawable\nt_flurries.xml
-C:\Users\samy\Desktop\SIT313 Ass2\final\final\XWeather-master\XWeather\Droid\obj\Debug\MonoAndroid60\res\drawable\nt_fog.xml
-C:\Users\samy\Desktop\SIT313 Ass2\final\final\XWeather-master\XWeather\Droid\obj\Debug\MonoAndroid60\res\drawable\nt_hazy.xml
-C:\Users\samy\Desktop\SIT313 Ass2\final\final\XWeather-master\XWeather\Droid\obj\Debug\MonoAndroid60\res\drawable\nt_mostlycloudy.xml
-C:\Users\samy\Desktop\SIT313 Ass2\final\final\XWeather-master\XWeather\Droid\obj\Debug\MonoAndroid60\res\drawable\nt_mostlysunny.xml
-C:\Users\samy\Desktop\SIT313 Ass2\final\final\XWeather-master\XWeather\Droid\obj\Debug\MonoAndroid60\res\drawable\nt_partlycloudy.xml
-C:\Users\samy\Desktop\SIT313 Ass2\final\final\XWeather-master\XWeather\Droid\obj\Debug\MonoAndroid60\res\drawable\nt_partlysunny.xml
-C:\Users\samy\Desktop\SIT313 Ass2\final\final\XWeather-master\XWeather\Droid\obj\Debug\MonoAndroid60\res\drawable\nt_rain.xml
-C:\Users\samy\Desktop\SIT313 Ass2\final\final\XWeather-master\XWeather\Droid\obj\Debug\MonoAndroid60\res\drawable\nt_sleet.xml
-C:\Users\samy\Desktop\SIT313 Ass2\final\final\XWeather-master\XWeather\Droid\obj\Debug\MonoAndroid60\res\drawable\nt_snow.xml
-C:\Users\samy\Desktop\SIT313 Ass2\final\final\XWeather-master\XWeather\Droid\obj\Debug\MonoAndroid60\res\drawable\nt_sunny.xml
-C:\Users\samy\Desktop\SIT313 Ass2\final\final\XWeather-master\XWeather\Droid\obj\Debug\MonoAndroid60\res\drawable\nt_tstorms.xml
-C:\Users\samy\Desktop\SIT313 Ass2\final\final\XWeather-master\XWeather\Droid\obj\Debug\MonoAndroid60\res\drawable\partlycloudy.xml
-C:\Users\samy\Desktop\SIT313 Ass2\final\final\XWeather-master\XWeather\Droid\obj\Debug\MonoAndroid60\res\drawable\partlysunny.xml
-C:\Users\samy\Desktop\SIT313 Ass2\final\final\XWeather-master\XWeather\Droid\obj\Debug\MonoAndroid60\res\drawable\rain.xml
-C:\Users\samy\Desktop\SIT313 Ass2\final\final\XWeather-master\XWeather\Droid\obj\Debug\MonoAndroid60\res\drawable\sleet.xml
-C:\Users\samy\Desktop\SIT313 Ass2\final\final\XWeather-master\XWeather\Droid\obj\Debug\MonoAndroid60\res\drawable\snow.xml
-C:\Users\samy\Desktop\SIT313 Ass2\final\final\XWeather-master\XWeather\Droid\obj\Debug\MonoAndroid60\res\drawable\sunny.xml
-C:\Users\samy\Desktop\SIT313 Ass2\final\final\XWeather-master\XWeather\Droid\obj\Debug\MonoAndroid60\res\drawable\tstorms.xml
-C:\Users\samy\Desktop\SIT313 Ass2\final\final\XWeather-master\XWeather\Droid\obj\Debug\MonoAndroid60\res\drawable\unknown.xml
-C:\Users\samy\Desktop\SIT313 Ass2\final\final\XWeather-master\XWeather\Droid\obj\Debug\MonoAndroid60\res\layout\floatingbutton.xml
-C:\Users\samy\Desktop\SIT313 Ass2\final\final\XWeather-master\XWeather\Droid\obj\Debug\MonoAndroid60\res\layout\dailyheader.xml
-C:\Users\samy\Desktop\SIT313 Ass2\final\final\XWeather-master\XWeather\Droid\obj\Debug\MonoAndroid60\res\layout\hourlyheader.xml
-C:\Users\samy\Desktop\SIT313 Ass2\final\final\XWeather-master\XWeather\Droid\obj\Debug\MonoAndroid60\res\layout\detailsheader.xml
-C:\Users\samy\Desktop\SIT313 Ass2\final\final\XWeather-master\XWeather\Droid\obj\Debug\MonoAndroid60\res\layout\mapradaractivity.xml
-C:\Users\samy\Desktop\SIT313 Ass2\final\final\XWeather-master\XWeather\Droid\obj\Debug\MonoAndroid60\res\layout\locationsactivity.xml
-C:\Users\samy\Desktop\SIT313 Ass2\final\final\XWeather-master\XWeather\Droid\obj\Debug\MonoAndroid60\res\xml\preferences.xml
-C:\Users\samy\Desktop\SIT313 Ass2\final\final\XWeather-master\XWeather\Droid\obj\Debug\MonoAndroid60\res\layout\locationsheader.xml
-C:\Users\samy\Desktop\SIT313 Ass2\final\final\XWeather-master\XWeather\Droid\obj\Debug\MonoAndroid60\res\values\integers.xml
-C:\Users\samy\Desktop\SIT313 Ass2\final\final\XWeather-master\XWeather\Droid\obj\Debug\MonoAndroid60\res\drawable\i_settings.xml
-C:\Users\samy\Desktop\SIT313 Ass2\final\final\XWeather-master\XWeather\Droid\obj\Debug\MonoAndroid60\res\menu\menu_locations.xml
-C:\Users\samy\Desktop\SIT313 Ass2\final\final\XWeather-master\XWeather\Droid\obj\Debug\MonoAndroid60\res\drawable\i_track_changes.xml
-C:\Users\samy\Desktop\SIT313 Ass2\final\final\XWeather-master\XWeather\Droid\obj\Debug\MonoAndroid60\res\menu\menu_locations_context.xml
-C:\Users\samy\Desktop\SIT313 Ass2\final\final\XWeather-master\XWeather\Droid\obj\Debug\MonoAndroid60\res\drawable\i_delete.xml
-C:\Users\samy\Desktop\SIT313 Ass2\final\final\XWeather-master\XWeather\Droid\obj\Debug\MonoAndroid60\res\drawable\i_share.xml
-C:\Users\samy\Desktop\SIT313 Ass2\final\final\XWeather-master\XWeather\Droid\obj\Debug\MonoAndroid60\res\drawable\i_search.xml
-C:\Users\samy\Desktop\SIT313 Ass2\final\final\XWeather-master\XWeather\Droid\obj\Debug\MonoAndroid60\res\drawable\i_list.xml
-C:\Users\samy\Desktop\SIT313 Ass2\final\final\XWeather-master\XWeather\Droid\obj\Debug\MonoAndroid60\res\drawable\logo_wunderground_white.xml
-C:\Users\samy\Desktop\SIT313 Ass2\final\final\XWeather-master\XWeather\Droid\obj\Debug\MonoAndroid60\R.cs.flag
-C:\Users\samy\Desktop\SIT313 Ass2\final\final\XWeather-master\XWeather\Droid\obj\Debug\MonoAndroid60\R.txt
-C:\Users\samy\Desktop\SIT313 Ass2\final\final\XWeather-master\XWeather\Droid\obj\Debug\MonoAndroid60\uploadflags.txt
-C:\Users\samy\Desktop\SIT313 Ass2\final\final\XWeather-master\XWeather\Droid\bin\Debug\Mono.Android.pdb
-C:\Users\samy\Desktop\SIT313 Ass2\final\final\XWeather-master\XWeather\Droid\bin\Debug\mscorlib.pdb
-C:\Users\samy\Desktop\SIT313 Ass2\final\final\XWeather-master\XWeather\Droid\bin\Debug\System.Core.pdb
-C:\Users\samy\Desktop\SIT313 Ass2\final\final\XWeather-master\XWeather\Droid\bin\Debug\System.pdb
-C:\Users\samy\Desktop\SIT313 Ass2\final\final\XWeather-master\XWeather\Droid\bin\Debug\System.Net.Http.pdb
-C:\Users\samy\Desktop\SIT313 Ass2\final\final\XWeather-master\XWeather\Droid\bin\Debug\System.Xml.pdb
-C:\Users\samy\Desktop\SIT313 Ass2\final\final\XWeather-master\XWeather\Droid\bin\Debug\System.ComponentModel.Composition.pdb
-C:\Users\samy\Desktop\SIT313 Ass2\final\final\XWeather-master\XWeather\Droid\bin\Debug\System.Runtime.Serialization.pdb
-C:\Users\samy\Desktop\SIT313 Ass2\final\final\XWeather-master\XWeather\Droid\bin\Debug\System.ServiceModel.Internals.pdb
-C:\Users\samy\Desktop\SIT313 Ass2\final\final\XWeather-master\XWeather\Droid\bin\Debug\System.Xml.Linq.pdb
-C:\Users\samy\Desktop\SIT313 Ass2\final\final\XWeather-master\XWeather\Droid\bin\Debug\Microsoft.CSharp.pdb
-C:\Users\samy\Desktop\SIT313 Ass2\final\final\XWeather-master\XWeather\Droid\bin\Debug\System.IO.Compression.pdb
-C:\Users\samy\Desktop\SIT313 Ass2\final\final\XWeather-master\XWeather\Droid\bin\Debug\System.Net.pdb
-C:\Users\samy\Desktop\SIT313 Ass2\final\final\XWeather-master\XWeather\Droid\bin\Debug\Mono.Security.pdb
-C:\Users\samy\Desktop\SIT313 Ass2\final\final\XWeather-master\XWeather\Droid\obj\Debug\MonoAndroid60\linksrc\Mono.Android.pdb
-C:\Users\samy\Desktop\SIT313 Ass2\final\final\XWeather-master\XWeather\Droid\obj\Debug\MonoAndroid60\linksrc\mscorlib.pdb
-C:\Users\samy\Desktop\SIT313 Ass2\final\final\XWeather-master\XWeather\Droid\obj\Debug\MonoAndroid60\linksrc\System.Core.pdb
-C:\Users\samy\Desktop\SIT313 Ass2\final\final\XWeather-master\XWeather\Droid\obj\Debug\MonoAndroid60\linksrc\System.pdb
-C:\Users\samy\Desktop\SIT313 Ass2\final\final\XWeather-master\XWeather\Droid\obj\Debug\MonoAndroid60\linksrc\System.Net.Http.pdb
-C:\Users\samy\Desktop\SIT313 Ass2\final\final\XWeather-master\XWeather\Droid\obj\Debug\MonoAndroid60\linksrc\System.Xml.pdb
-C:\Users\samy\Desktop\SIT313 Ass2\final\final\XWeather-master\XWeather\Droid\obj\Debug\MonoAndroid60\linksrc\System.ComponentModel.Composition.pdb
-C:\Users\samy\Desktop\SIT313 Ass2\final\final\XWeather-master\XWeather\Droid\obj\Debug\MonoAndroid60\linksrc\System.Runtime.Serialization.pdb
-C:\Users\samy\Desktop\SIT313 Ass2\final\final\XWeather-master\XWeather\Droid\obj\Debug\MonoAndroid60\linksrc\System.ServiceModel.Internals.pdb
-C:\Users\samy\Desktop\SIT313 Ass2\final\final\XWeather-master\XWeather\Droid\obj\Debug\MonoAndroid60\linksrc\System.Xml.Linq.pdb
-C:\Users\samy\Desktop\SIT313 Ass2\final\final\XWeather-master\XWeather\Droid\obj\Debug\MonoAndroid60\linksrc\Microsoft.CSharp.pdb
-C:\Users\samy\Desktop\SIT313 Ass2\final\final\XWeather-master\XWeather\Droid\obj\Debug\MonoAndroid60\linksrc\System.IO.Compression.pdb
-C:\Users\samy\Desktop\SIT313 Ass2\final\final\XWeather-master\XWeather\Droid\obj\Debug\MonoAndroid60\linksrc\System.Net.pdb
-C:\Users\samy\Desktop\SIT313 Ass2\final\final\XWeather-master\XWeather\Droid\obj\Debug\MonoAndroid60\linksrc\Mono.Security.pdb
-C:\Users\samy\Desktop\SIT313 Ass2\final\final\XWeather-master\XWeather\Droid\bin\Debug\Plugin.VersionTracking.Abstractions.dll.mdb
-C:\Users\samy\Desktop\SIT313 Ass2\final\final\XWeather-master\XWeather\Droid\bin\Debug\Plugin.VersionTracking.dll.mdb
-C:\Users\samy\Desktop\SIT313 Ass2\final\final\XWeather-master\XWeather\Droid\obj\Debug\MonoAndroid60\linksrc\XWeather.Droid.dll.mdb
-C:\Users\samy\Desktop\SIT313 Ass2\final\final\XWeather-master\XWeather\Droid\obj\Debug\MonoAndroid60\linksrc\ModernHttpClient.dll.mdb
-C:\Users\samy\Desktop\SIT313 Ass2\final\final\XWeather-master\XWeather\Droid\obj\Debug\MonoAndroid60\linksrc\Plugin.VersionTracking.Abstractions.dll.mdb
-C:\Users\samy\Desktop\SIT313 Ass2\final\final\XWeather-master\XWeather\Droid\obj\Debug\MonoAndroid60\linksrc\Plugin.VersionTracking.dll.mdb
-C:\Users\samy\Desktop\SIT313 Ass2\final\final\XWeather-master\XWeather\Droid\bin\Debug\XWeather.Droid.dll.mdb
-C:\Users\samy\Desktop\SIT313 Ass2\final\final\XWeather-master\XWeather\Droid\obj\Debug\MonoAndroid60\android\assets\ModernHttpClient.dll.mdb
-C:\Users\samy\Desktop\SIT313 Ass2\final\final\XWeather-master\XWeather\Droid\obj\Debug\MonoAndroid60\android\assets\Plugin.VersionTracking.Abstractions.dll.mdb
-C:\Users\samy\Desktop\SIT313 Ass2\final\final\XWeather-master\XWeather\Droid\obj\Debug\MonoAndroid60\android\assets\Plugin.VersionTracking.dll.mdb
-C:\Users\samy\Desktop\SIT313 Ass2\final\final\XWeather-master\XWeather\Droid\obj\Debug\MonoAndroid60\android\assets\XWeather.Droid.dll.mdb
-C:\Users\samy\Desktop\SIT313 Ass2\final\final\XWeather-master\XWeather\Droid\obj\Debug\MonoAndroid60\android\assets\Microsoft.CSharp.pdb
-C:\Users\samy\Desktop\SIT313 Ass2\final\final\XWeather-master\XWeather\Droid\obj\Debug\MonoAndroid60\android\assets\Mono.Android.pdb
-C:\Users\samy\Desktop\SIT313 Ass2\final\final\XWeather-master\XWeather\Droid\obj\Debug\MonoAndroid60\android\assets\Mono.Security.pdb
-C:\Users\samy\Desktop\SIT313 Ass2\final\final\XWeather-master\XWeather\Droid\obj\Debug\MonoAndroid60\android\assets\mscorlib.pdb
-C:\Users\samy\Desktop\SIT313 Ass2\final\final\XWeather-master\XWeather\Droid\obj\Debug\MonoAndroid60\android\assets\System.ComponentModel.Composition.pdb
-C:\Users\samy\Desktop\SIT313 Ass2\final\final\XWeather-master\XWeather\Droid\obj\Debug\MonoAndroid60\android\assets\System.Core.pdb
-C:\Users\samy\Desktop\SIT313 Ass2\final\final\XWeather-master\XWeather\Droid\obj\Debug\MonoAndroid60\android\assets\System.IO.Compression.pdb
-C:\Users\samy\Desktop\SIT313 Ass2\final\final\XWeather-master\XWeather\Droid\obj\Debug\MonoAndroid60\android\assets\System.Net.Http.pdb
-C:\Users\samy\Desktop\SIT313 Ass2\final\final\XWeather-master\XWeather\Droid\obj\Debug\MonoAndroid60\android\assets\System.Net.pdb
-C:\Users\samy\Desktop\SIT313 Ass2\final\final\XWeather-master\XWeather\Droid\obj\Debug\MonoAndroid60\android\assets\System.pdb
-C:\Users\samy\Desktop\SIT313 Ass2\final\final\XWeather-master\XWeather\Droid\obj\Debug\MonoAndroid60\android\assets\System.Runtime.Serialization.pdb
-C:\Users\samy\Desktop\SIT313 Ass2\final\final\XWeather-master\XWeather\Droid\obj\Debug\MonoAndroid60\android\assets\System.ServiceModel.Internals.pdb
-C:\Users\samy\Desktop\SIT313 Ass2\final\final\XWeather-master\XWeather\Droid\obj\Debug\MonoAndroid60\android\assets\System.Xml.Linq.pdb
-C:\Users\samy\Desktop\SIT313 Ass2\final\final\XWeather-master\XWeather\Droid\obj\Debug\MonoAndroid60\android\assets\System.Xml.pdb
-C:\Users\samy\Desktop\SIT313 Ass2\final\final\XWeather-master\XWeather\Droid\bin\Debug\XWeather.Droid.dll
-C:\Users\samy\Desktop\SIT313 Ass2\final\final\XWeather-master\XWeather\Droid\obj\Debug\MonoAndroid60\linksrc\XWeather.Droid.dll.mdb
-C:\Users\samy\Desktop\SIT313 Ass2\final\final\XWeather-master\XWeather\Droid\obj\Debug\MonoAndroid60\linksrc\ModernHttpClient.dll.mdb
-C:\Users\samy\Desktop\SIT313 Ass2\final\final\XWeather-master\XWeather\Droid\obj\Debug\MonoAndroid60\linksrc\Plugin.VersionTracking.Abstractions.dll.mdb
-C:\Users\samy\Desktop\SIT313 Ass2\final\final\XWeather-master\XWeather\Droid\obj\Debug\MonoAndroid60\linksrc\Plugin.VersionTracking.dll.mdb
+C:\Users\samy\Documents\GitHub\Weather-app\XWeather\Droid\bin\Debug\XWeather.Droid.dll
+C:\Users\samy\Documents\GitHub\Weather-app\XWeather\Droid\bin\Debug\XWeather.Droid.pdb
+C:\Users\samy\Documents\GitHub\Weather-app\XWeather\Droid\bin\Debug\com.xamarin.xweather.apk
+C:\Users\samy\Documents\GitHub\Weather-app\XWeather\Droid\bin\Debug\com.xamarin.xweather-Signed.apk
+C:\Users\samy\Documents\GitHub\Weather-app\XWeather\Droid\bin\Debug\Microsoft.Azure.Mobile.Analytics.Android.Bindings.dll
+C:\Users\samy\Documents\GitHub\Weather-app\XWeather\Droid\bin\Debug\Microsoft.Azure.Mobile.Analytics.dll
+C:\Users\samy\Documents\GitHub\Weather-app\XWeather\Droid\bin\Debug\Microsoft.Azure.Mobile.Android.Bindings.dll
+C:\Users\samy\Documents\GitHub\Weather-app\XWeather\Droid\bin\Debug\Microsoft.Azure.Mobile.Crashes.Android.Bindings.dll
+C:\Users\samy\Documents\GitHub\Weather-app\XWeather\Droid\bin\Debug\Microsoft.Azure.Mobile.Crashes.dll
+C:\Users\samy\Documents\GitHub\Weather-app\XWeather\Droid\bin\Debug\Microsoft.Azure.Mobile.Distribute.Android.Bindings.dll
+C:\Users\samy\Documents\GitHub\Weather-app\XWeather\Droid\bin\Debug\Microsoft.Azure.Mobile.Distribute.dll
+C:\Users\samy\Documents\GitHub\Weather-app\XWeather\Droid\bin\Debug\Microsoft.Azure.Mobile.dll
+C:\Users\samy\Documents\GitHub\Weather-app\XWeather\Droid\bin\Debug\ModernHttpClient.dll
+C:\Users\samy\Documents\GitHub\Weather-app\XWeather\Droid\bin\Debug\Newtonsoft.Json.dll
+C:\Users\samy\Documents\GitHub\Weather-app\XWeather\Droid\bin\Debug\OkHttp.dll
+C:\Users\samy\Documents\GitHub\Weather-app\XWeather\Droid\bin\Debug\Plugin.VersionTracking.Abstractions.dll
+C:\Users\samy\Documents\GitHub\Weather-app\XWeather\Droid\bin\Debug\Plugin.VersionTracking.dll
+C:\Users\samy\Documents\GitHub\Weather-app\XWeather\Droid\bin\Debug\ServiceStack.Client.dll
+C:\Users\samy\Documents\GitHub\Weather-app\XWeather\Droid\bin\Debug\ServiceStack.HttpClient.dll
+C:\Users\samy\Documents\GitHub\Weather-app\XWeather\Droid\bin\Debug\ServiceStack.Interfaces.dll
+C:\Users\samy\Documents\GitHub\Weather-app\XWeather\Droid\bin\Debug\ServiceStack.Pcl.Android.dll
+C:\Users\samy\Documents\GitHub\Weather-app\XWeather\Droid\bin\Debug\ServiceStack.Text.dll
+C:\Users\samy\Documents\GitHub\Weather-app\XWeather\Droid\bin\Debug\System.Net.Http.Extensions.dll
+C:\Users\samy\Documents\GitHub\Weather-app\XWeather\Droid\bin\Debug\System.Net.Http.Primitives.dll
+C:\Users\samy\Documents\GitHub\Weather-app\XWeather\Droid\bin\Debug\Xamarin.Android.Support.Animated.Vector.Drawable.dll
+C:\Users\samy\Documents\GitHub\Weather-app\XWeather\Droid\bin\Debug\Xamarin.Android.Support.Compat.dll
+C:\Users\samy\Documents\GitHub\Weather-app\XWeather\Droid\bin\Debug\Xamarin.Android.Support.Core.UI.dll
+C:\Users\samy\Documents\GitHub\Weather-app\XWeather\Droid\bin\Debug\Xamarin.Android.Support.Core.Utils.dll
+C:\Users\samy\Documents\GitHub\Weather-app\XWeather\Droid\bin\Debug\Xamarin.Android.Support.Design.dll
+C:\Users\samy\Documents\GitHub\Weather-app\XWeather\Droid\bin\Debug\Xamarin.Android.Support.Fragment.dll
+C:\Users\samy\Documents\GitHub\Weather-app\XWeather\Droid\bin\Debug\Xamarin.Android.Support.Media.Compat.dll
+C:\Users\samy\Documents\GitHub\Weather-app\XWeather\Droid\bin\Debug\Xamarin.Android.Support.Transition.dll
+C:\Users\samy\Documents\GitHub\Weather-app\XWeather\Droid\bin\Debug\Xamarin.Android.Support.v4.dll
+C:\Users\samy\Documents\GitHub\Weather-app\XWeather\Droid\bin\Debug\Xamarin.Android.Support.v7.AppCompat.dll
+C:\Users\samy\Documents\GitHub\Weather-app\XWeather\Droid\bin\Debug\Xamarin.Android.Support.v7.CardView.dll
+C:\Users\samy\Documents\GitHub\Weather-app\XWeather\Droid\bin\Debug\Xamarin.Android.Support.v7.RecyclerView.dll
+C:\Users\samy\Documents\GitHub\Weather-app\XWeather\Droid\bin\Debug\Xamarin.Android.Support.Vector.Drawable.dll
+C:\Users\samy\Documents\GitHub\Weather-app\XWeather\Droid\bin\Debug\Xamarin.GooglePlayServices.Base.dll
+C:\Users\samy\Documents\GitHub\Weather-app\XWeather\Droid\bin\Debug\Xamarin.GooglePlayServices.Basement.dll
+C:\Users\samy\Documents\GitHub\Weather-app\XWeather\Droid\bin\Debug\Xamarin.GooglePlayServices.Location.dll
+C:\Users\samy\Documents\GitHub\Weather-app\XWeather\Droid\bin\Debug\Xamarin.GooglePlayServices.Maps.dll
+C:\Users\samy\Documents\GitHub\Weather-app\XWeather\Droid\bin\Debug\Xamarin.GooglePlayServices.Tasks.dll
+C:\Users\samy\Documents\GitHub\Weather-app\XWeather\Droid\bin\Debug\Plugin.VersionTracking.Abstractions.pdb
+C:\Users\samy\Documents\GitHub\Weather-app\XWeather\Droid\bin\Debug\Plugin.VersionTracking.Abstractions.xml
+C:\Users\samy\Documents\GitHub\Weather-app\XWeather\Droid\bin\Debug\Plugin.VersionTracking.Abstractions.dll.mdb
+C:\Users\samy\Documents\GitHub\Weather-app\XWeather\Droid\bin\Debug\Plugin.VersionTracking.pdb
+C:\Users\samy\Documents\GitHub\Weather-app\XWeather\Droid\bin\Debug\Plugin.VersionTracking.xml
+C:\Users\samy\Documents\GitHub\Weather-app\XWeather\Droid\bin\Debug\Plugin.VersionTracking.dll.mdb
+C:\Users\samy\Documents\GitHub\Weather-app\XWeather\Droid\bin\Debug\System.Net.Http.Extensions.xml
+C:\Users\samy\Documents\GitHub\Weather-app\XWeather\Droid\bin\Debug\System.Net.Http.Primitives.xml
+C:\Users\samy\Documents\GitHub\Weather-app\XWeather\Droid\bin\Debug\ModernHttpClient.dll.mdb
+C:\Users\samy\Documents\GitHub\Weather-app\XWeather\Droid\bin\Debug\Newtonsoft.Json.xml
+C:\Users\samy\Documents\GitHub\Weather-app\XWeather\Droid\obj\Debug\MonoAndroid60\XWeather.Droid.csprojAssemblyReference.cache
+C:\Users\samy\Documents\GitHub\Weather-app\XWeather\Droid\obj\Debug\MonoAndroid60\XbdMerge\Xamarin.Android.Support.Compat.dll
+C:\Users\samy\Documents\GitHub\Weather-app\XWeather\Droid\obj\Debug\MonoAndroid60\XbdMerge\Xamarin.Android.Support.Core.UI.dll
+C:\Users\samy\Documents\GitHub\Weather-app\XWeather\Droid\obj\Debug\MonoAndroid60\XbdMerge\Xamarin.Android.Support.Core.Utils.dll
+C:\Users\samy\Documents\GitHub\Weather-app\XWeather\Droid\obj\Debug\MonoAndroid60\XbdMerge\Xamarin.Android.Support.Media.Compat.dll
+C:\Users\samy\Documents\GitHub\Weather-app\XWeather\Droid\obj\Debug\MonoAndroid60\XbdMerge\Xamarin.Android.Support.Fragment.dll
+C:\Users\samy\Documents\GitHub\Weather-app\XWeather\Droid\obj\Debug\MonoAndroid60\XbdMerge\Xamarin.Android.Support.Transition.dll
+C:\Users\samy\Documents\GitHub\Weather-app\XWeather\Droid\obj\Debug\MonoAndroid60\XbdMerge\Xamarin.Android.Support.v4.dll
+C:\Users\samy\Documents\GitHub\Weather-app\XWeather\Droid\obj\Debug\MonoAndroid60\XbdMerge\Xamarin.Android.Support.v7.RecyclerView.dll
+C:\Users\samy\Documents\GitHub\Weather-app\XWeather\Droid\obj\Debug\MonoAndroid60\XbdMerge\Xamarin.Android.Support.Vector.Drawable.dll
+C:\Users\samy\Documents\GitHub\Weather-app\XWeather\Droid\obj\Debug\MonoAndroid60\XbdMerge\Xamarin.Android.Support.Animated.Vector.Drawable.dll
+C:\Users\samy\Documents\GitHub\Weather-app\XWeather\Droid\obj\Debug\MonoAndroid60\XbdMerge\Xamarin.Android.Support.v7.AppCompat.dll
+C:\Users\samy\Documents\GitHub\Weather-app\XWeather\Droid\obj\Debug\MonoAndroid60\XbdMerge\Xamarin.Android.Support.Design.dll
+C:\Users\samy\Documents\GitHub\Weather-app\XWeather\Droid\obj\Debug\MonoAndroid60\XbdMerge\Xamarin.GooglePlayServices.Basement.dll
+C:\Users\samy\Documents\GitHub\Weather-app\XWeather\Droid\obj\Debug\MonoAndroid60\XbdMerge\Xamarin.GooglePlayServices.Tasks.dll
+C:\Users\samy\Documents\GitHub\Weather-app\XWeather\Droid\obj\Debug\MonoAndroid60\XbdMerge\Xamarin.GooglePlayServices.Base.dll
+C:\Users\samy\Documents\GitHub\Weather-app\XWeather\Droid\obj\Debug\MonoAndroid60\XbdMerge\Xamarin.GooglePlayServices.Location.dll
+C:\Users\samy\Documents\GitHub\Weather-app\XWeather\Droid\obj\Debug\MonoAndroid60\XbdMerge\Xamarin.GooglePlayServices.Maps.dll
+C:\Users\samy\Documents\GitHub\Weather-app\XWeather\Droid\obj\Debug\MonoAndroid60\XbdMerge\Xamarin.Android.Support.v7.CardView.dll
+C:\Users\samy\Documents\GitHub\Weather-app\XWeather\Droid\obj\Debug\MonoAndroid60\res.flag
+C:\Users\samy\Documents\GitHub\Weather-app\XWeather\Droid\obj\Debug\MonoAndroid60\XWeather.Droid.csproj.CoreCompileInputs.cache
+C:\Users\samy\Documents\GitHub\Weather-app\XWeather\Droid\obj\Debug\MonoAndroid60\XWeather.Droid.csproj.CopyComplete
+C:\Users\samy\Documents\GitHub\Weather-app\XWeather\Droid\obj\Debug\MonoAndroid60\XWeather.Droid.dll
+C:\Users\samy\Documents\GitHub\Weather-app\XWeather\Droid\obj\Debug\MonoAndroid60\XWeather.Droid.pdb
+C:\Users\samy\Documents\GitHub\Weather-app\XWeather\Droid\obj\Debug\MonoAndroid60\android\bin\com.xamarin.xweather.apk
+C:\Users\samy\Documents\GitHub\Weather-app\XWeather\Droid\obj\Debug\MonoAndroid60\res\values\strings.xml
+C:\Users\samy\Documents\GitHub\Weather-app\XWeather\Droid\obj\Debug\MonoAndroid60\res\mipmap-hdpi\icon.png
+C:\Users\samy\Documents\GitHub\Weather-app\XWeather\Droid\obj\Debug\MonoAndroid60\res\mipmap-mdpi\icon.png
+C:\Users\samy\Documents\GitHub\Weather-app\XWeather\Droid\obj\Debug\MonoAndroid60\res\mipmap-xhdpi\icon.png
+C:\Users\samy\Documents\GitHub\Weather-app\XWeather\Droid\obj\Debug\MonoAndroid60\res\mipmap-xxhdpi\icon.png
+C:\Users\samy\Documents\GitHub\Weather-app\XWeather\Droid\obj\Debug\MonoAndroid60\res\mipmap-xxxhdpi\icon.png
+C:\Users\samy\Documents\GitHub\Weather-app\XWeather\Droid\obj\Debug\MonoAndroid60\res\layout\weatheractivity.xml
+C:\Users\samy\Documents\GitHub\Weather-app\XWeather\Droid\obj\Debug\MonoAndroid60\res\layout\toolbar.xml
+C:\Users\samy\Documents\GitHub\Weather-app\XWeather\Droid\obj\Debug\MonoAndroid60\res\layout\recyclerviewfragment.xml
+C:\Users\samy\Documents\GitHub\Weather-app\XWeather\Droid\obj\Debug\MonoAndroid60\res\layout\hourlylistitem.xml
+C:\Users\samy\Documents\GitHub\Weather-app\XWeather\Droid\obj\Debug\MonoAndroid60\res\layout\dailylistitem.xml
+C:\Users\samy\Documents\GitHub\Weather-app\XWeather\Droid\obj\Debug\MonoAndroid60\res\layout\detailslistitem.xml
+C:\Users\samy\Documents\GitHub\Weather-app\XWeather\Droid\obj\Debug\MonoAndroid60\res\layout\locationlistitem.xml
+C:\Users\samy\Documents\GitHub\Weather-app\XWeather\Droid\obj\Debug\MonoAndroid60\res\values\colors.xml
+C:\Users\samy\Documents\GitHub\Weather-app\XWeather\Droid\obj\Debug\MonoAndroid60\res\values\styles.xml
+C:\Users\samy\Documents\GitHub\Weather-app\XWeather\Droid\obj\Debug\MonoAndroid60\res\values\dimens.xml
+C:\Users\samy\Documents\GitHub\Weather-app\XWeather\Droid\obj\Debug\MonoAndroid60\res\values\attrs.xml
+C:\Users\samy\Documents\GitHub\Weather-app\XWeather\Droid\obj\Debug\MonoAndroid60\res\drawable\chanceflurries.xml
+C:\Users\samy\Documents\GitHub\Weather-app\XWeather\Droid\obj\Debug\MonoAndroid60\res\drawable\chancerain.xml
+C:\Users\samy\Documents\GitHub\Weather-app\XWeather\Droid\obj\Debug\MonoAndroid60\res\drawable\chancesleet.xml
+C:\Users\samy\Documents\GitHub\Weather-app\XWeather\Droid\obj\Debug\MonoAndroid60\res\drawable\chancesnow.xml
+C:\Users\samy\Documents\GitHub\Weather-app\XWeather\Droid\obj\Debug\MonoAndroid60\res\drawable\chancetstorms.xml
+C:\Users\samy\Documents\GitHub\Weather-app\XWeather\Droid\obj\Debug\MonoAndroid60\res\drawable\clear.xml
+C:\Users\samy\Documents\GitHub\Weather-app\XWeather\Droid\obj\Debug\MonoAndroid60\res\drawable\cloudy.xml
+C:\Users\samy\Documents\GitHub\Weather-app\XWeather\Droid\obj\Debug\MonoAndroid60\res\drawable\flurries.xml
+C:\Users\samy\Documents\GitHub\Weather-app\XWeather\Droid\obj\Debug\MonoAndroid60\res\drawable\fog.xml
+C:\Users\samy\Documents\GitHub\Weather-app\XWeather\Droid\obj\Debug\MonoAndroid60\res\drawable\hazy.xml
+C:\Users\samy\Documents\GitHub\Weather-app\XWeather\Droid\obj\Debug\MonoAndroid60\res\drawable\i_add_sm.xml
+C:\Users\samy\Documents\GitHub\Weather-app\XWeather\Droid\obj\Debug\MonoAndroid60\res\drawable\i_add.xml
+C:\Users\samy\Documents\GitHub\Weather-app\XWeather\Droid\obj\Debug\MonoAndroid60\res\drawable\i_close.xml
+C:\Users\samy\Documents\GitHub\Weather-app\XWeather\Droid\obj\Debug\MonoAndroid60\res\drawable\i_cog.xml
+C:\Users\samy\Documents\GitHub\Weather-app\XWeather\Droid\obj\Debug\MonoAndroid60\res\drawable\mostlycloudy.xml
+C:\Users\samy\Documents\GitHub\Weather-app\XWeather\Droid\obj\Debug\MonoAndroid60\res\drawable\mostlysunny.xml
+C:\Users\samy\Documents\GitHub\Weather-app\XWeather\Droid\obj\Debug\MonoAndroid60\res\drawable\nt_chanceflurries.xml
+C:\Users\samy\Documents\GitHub\Weather-app\XWeather\Droid\obj\Debug\MonoAndroid60\res\drawable\nt_chancerain.xml
+C:\Users\samy\Documents\GitHub\Weather-app\XWeather\Droid\obj\Debug\MonoAndroid60\res\drawable\nt_chancesleet.xml
+C:\Users\samy\Documents\GitHub\Weather-app\XWeather\Droid\obj\Debug\MonoAndroid60\res\drawable\nt_chancesnow.xml
+C:\Users\samy\Documents\GitHub\Weather-app\XWeather\Droid\obj\Debug\MonoAndroid60\res\drawable\nt_chancetstorms.xml
+C:\Users\samy\Documents\GitHub\Weather-app\XWeather\Droid\obj\Debug\MonoAndroid60\res\drawable\nt_clear.xml
+C:\Users\samy\Documents\GitHub\Weather-app\XWeather\Droid\obj\Debug\MonoAndroid60\res\drawable\nt_cloudy.xml
+C:\Users\samy\Documents\GitHub\Weather-app\XWeather\Droid\obj\Debug\MonoAndroid60\res\drawable\nt_flurries.xml
+C:\Users\samy\Documents\GitHub\Weather-app\XWeather\Droid\obj\Debug\MonoAndroid60\res\drawable\nt_fog.xml
+C:\Users\samy\Documents\GitHub\Weather-app\XWeather\Droid\obj\Debug\MonoAndroid60\res\drawable\nt_hazy.xml
+C:\Users\samy\Documents\GitHub\Weather-app\XWeather\Droid\obj\Debug\MonoAndroid60\res\drawable\nt_mostlycloudy.xml
+C:\Users\samy\Documents\GitHub\Weather-app\XWeather\Droid\obj\Debug\MonoAndroid60\res\drawable\nt_mostlysunny.xml
+C:\Users\samy\Documents\GitHub\Weather-app\XWeather\Droid\obj\Debug\MonoAndroid60\res\drawable\nt_partlycloudy.xml
+C:\Users\samy\Documents\GitHub\Weather-app\XWeather\Droid\obj\Debug\MonoAndroid60\res\drawable\nt_partlysunny.xml
+C:\Users\samy\Documents\GitHub\Weather-app\XWeather\Droid\obj\Debug\MonoAndroid60\res\drawable\nt_rain.xml
+C:\Users\samy\Documents\GitHub\Weather-app\XWeather\Droid\obj\Debug\MonoAndroid60\res\drawable\nt_sleet.xml
+C:\Users\samy\Documents\GitHub\Weather-app\XWeather\Droid\obj\Debug\MonoAndroid60\res\drawable\nt_snow.xml
+C:\Users\samy\Documents\GitHub\Weather-app\XWeather\Droid\obj\Debug\MonoAndroid60\res\drawable\nt_sunny.xml
+C:\Users\samy\Documents\GitHub\Weather-app\XWeather\Droid\obj\Debug\MonoAndroid60\res\drawable\nt_tstorms.xml
+C:\Users\samy\Documents\GitHub\Weather-app\XWeather\Droid\obj\Debug\MonoAndroid60\res\drawable\partlycloudy.xml
+C:\Users\samy\Documents\GitHub\Weather-app\XWeather\Droid\obj\Debug\MonoAndroid60\res\drawable\partlysunny.xml
+C:\Users\samy\Documents\GitHub\Weather-app\XWeather\Droid\obj\Debug\MonoAndroid60\res\drawable\rain.xml
+C:\Users\samy\Documents\GitHub\Weather-app\XWeather\Droid\obj\Debug\MonoAndroid60\res\drawable\sleet.xml
+C:\Users\samy\Documents\GitHub\Weather-app\XWeather\Droid\obj\Debug\MonoAndroid60\res\drawable\snow.xml
+C:\Users\samy\Documents\GitHub\Weather-app\XWeather\Droid\obj\Debug\MonoAndroid60\res\drawable\sunny.xml
+C:\Users\samy\Documents\GitHub\Weather-app\XWeather\Droid\obj\Debug\MonoAndroid60\res\drawable\tstorms.xml
+C:\Users\samy\Documents\GitHub\Weather-app\XWeather\Droid\obj\Debug\MonoAndroid60\res\drawable\unknown.xml
+C:\Users\samy\Documents\GitHub\Weather-app\XWeather\Droid\obj\Debug\MonoAndroid60\res\layout\floatingbutton.xml
+C:\Users\samy\Documents\GitHub\Weather-app\XWeather\Droid\obj\Debug\MonoAndroid60\res\layout\dailyheader.xml
+C:\Users\samy\Documents\GitHub\Weather-app\XWeather\Droid\obj\Debug\MonoAndroid60\res\layout\hourlyheader.xml
+C:\Users\samy\Documents\GitHub\Weather-app\XWeather\Droid\obj\Debug\MonoAndroid60\res\layout\detailsheader.xml
+C:\Users\samy\Documents\GitHub\Weather-app\XWeather\Droid\obj\Debug\MonoAndroid60\res\layout\mapradaractivity.xml
+C:\Users\samy\Documents\GitHub\Weather-app\XWeather\Droid\obj\Debug\MonoAndroid60\res\layout\locationsactivity.xml
+C:\Users\samy\Documents\GitHub\Weather-app\XWeather\Droid\obj\Debug\MonoAndroid60\res\xml\preferences.xml
+C:\Users\samy\Documents\GitHub\Weather-app\XWeather\Droid\obj\Debug\MonoAndroid60\res\layout\locationsheader.xml
+C:\Users\samy\Documents\GitHub\Weather-app\XWeather\Droid\obj\Debug\MonoAndroid60\res\values\integers.xml
+C:\Users\samy\Documents\GitHub\Weather-app\XWeather\Droid\obj\Debug\MonoAndroid60\res\drawable\i_settings.xml
+C:\Users\samy\Documents\GitHub\Weather-app\XWeather\Droid\obj\Debug\MonoAndroid60\res\menu\menu_locations.xml
+C:\Users\samy\Documents\GitHub\Weather-app\XWeather\Droid\obj\Debug\MonoAndroid60\res\drawable\i_track_changes.xml
+C:\Users\samy\Documents\GitHub\Weather-app\XWeather\Droid\obj\Debug\MonoAndroid60\res\menu\menu_locations_context.xml
+C:\Users\samy\Documents\GitHub\Weather-app\XWeather\Droid\obj\Debug\MonoAndroid60\res\drawable\i_delete.xml
+C:\Users\samy\Documents\GitHub\Weather-app\XWeather\Droid\obj\Debug\MonoAndroid60\res\drawable\i_share.xml
+C:\Users\samy\Documents\GitHub\Weather-app\XWeather\Droid\obj\Debug\MonoAndroid60\res\drawable\i_search.xml
+C:\Users\samy\Documents\GitHub\Weather-app\XWeather\Droid\obj\Debug\MonoAndroid60\res\drawable\i_list.xml
+C:\Users\samy\Documents\GitHub\Weather-app\XWeather\Droid\obj\Debug\MonoAndroid60\res\drawable\logo_wunderground_white.xml
+C:\Users\samy\Documents\GitHub\Weather-app\XWeather\Droid\obj\Debug\MonoAndroid60\R.cs.flag
+C:\Users\samy\Documents\GitHub\Weather-app\XWeather\Droid\obj\Debug\MonoAndroid60\R.txt
+C:\Users\samy\Documents\GitHub\Weather-app\XWeather\Droid\obj\Debug\MonoAndroid60\uploadflags.txt
+C:\Users\samy\Documents\GitHub\Weather-app\XWeather\Droid\bin\Debug\Microsoft.CSharp.pdb
+C:\Users\samy\Documents\GitHub\Weather-app\XWeather\Droid\bin\Debug\Mono.Android.pdb
+C:\Users\samy\Documents\GitHub\Weather-app\XWeather\Droid\bin\Debug\Mono.Security.pdb
+C:\Users\samy\Documents\GitHub\Weather-app\XWeather\Droid\bin\Debug\mscorlib.pdb
+C:\Users\samy\Documents\GitHub\Weather-app\XWeather\Droid\bin\Debug\System.ComponentModel.Composition.pdb
+C:\Users\samy\Documents\GitHub\Weather-app\XWeather\Droid\bin\Debug\System.Core.pdb
+C:\Users\samy\Documents\GitHub\Weather-app\XWeather\Droid\bin\Debug\System.IO.Compression.pdb
+C:\Users\samy\Documents\GitHub\Weather-app\XWeather\Droid\bin\Debug\System.Net.Http.pdb
+C:\Users\samy\Documents\GitHub\Weather-app\XWeather\Droid\bin\Debug\System.Net.pdb
+C:\Users\samy\Documents\GitHub\Weather-app\XWeather\Droid\bin\Debug\System.pdb
+C:\Users\samy\Documents\GitHub\Weather-app\XWeather\Droid\bin\Debug\System.Runtime.Serialization.pdb
+C:\Users\samy\Documents\GitHub\Weather-app\XWeather\Droid\bin\Debug\System.ServiceModel.Internals.pdb
+C:\Users\samy\Documents\GitHub\Weather-app\XWeather\Droid\bin\Debug\System.Xml.Linq.pdb
+C:\Users\samy\Documents\GitHub\Weather-app\XWeather\Droid\bin\Debug\System.Xml.pdb
+C:\Users\samy\Documents\GitHub\Weather-app\XWeather\Droid\obj\Debug\MonoAndroid60\linksrc\Mono.Android.pdb
+C:\Users\samy\Documents\GitHub\Weather-app\XWeather\Droid\obj\Debug\MonoAndroid60\linksrc\mscorlib.pdb
+C:\Users\samy\Documents\GitHub\Weather-app\XWeather\Droid\obj\Debug\MonoAndroid60\linksrc\System.Core.pdb
+C:\Users\samy\Documents\GitHub\Weather-app\XWeather\Droid\obj\Debug\MonoAndroid60\linksrc\System.pdb
+C:\Users\samy\Documents\GitHub\Weather-app\XWeather\Droid\obj\Debug\MonoAndroid60\linksrc\System.Net.Http.pdb
+C:\Users\samy\Documents\GitHub\Weather-app\XWeather\Droid\obj\Debug\MonoAndroid60\linksrc\System.Xml.pdb
+C:\Users\samy\Documents\GitHub\Weather-app\XWeather\Droid\obj\Debug\MonoAndroid60\linksrc\System.ComponentModel.Composition.pdb
+C:\Users\samy\Documents\GitHub\Weather-app\XWeather\Droid\obj\Debug\MonoAndroid60\linksrc\System.Runtime.Serialization.pdb
+C:\Users\samy\Documents\GitHub\Weather-app\XWeather\Droid\obj\Debug\MonoAndroid60\linksrc\System.ServiceModel.Internals.pdb
+C:\Users\samy\Documents\GitHub\Weather-app\XWeather\Droid\obj\Debug\MonoAndroid60\linksrc\System.Xml.Linq.pdb
+C:\Users\samy\Documents\GitHub\Weather-app\XWeather\Droid\obj\Debug\MonoAndroid60\linksrc\Microsoft.CSharp.pdb
+C:\Users\samy\Documents\GitHub\Weather-app\XWeather\Droid\obj\Debug\MonoAndroid60\linksrc\System.IO.Compression.pdb
+C:\Users\samy\Documents\GitHub\Weather-app\XWeather\Droid\obj\Debug\MonoAndroid60\linksrc\System.Net.pdb
+C:\Users\samy\Documents\GitHub\Weather-app\XWeather\Droid\obj\Debug\MonoAndroid60\linksrc\Mono.Security.pdb
+C:\Users\samy\Documents\GitHub\Weather-app\XWeather\Droid\obj\Debug\MonoAndroid60\linksrc\XWeather.Droid.dll.mdb
+C:\Users\samy\Documents\GitHub\Weather-app\XWeather\Droid\obj\Debug\MonoAndroid60\linksrc\ModernHttpClient.dll.mdb
+C:\Users\samy\Documents\GitHub\Weather-app\XWeather\Droid\obj\Debug\MonoAndroid60\linksrc\Plugin.VersionTracking.Abstractions.dll.mdb
+C:\Users\samy\Documents\GitHub\Weather-app\XWeather\Droid\obj\Debug\MonoAndroid60\linksrc\Plugin.VersionTracking.dll.mdb
+C:\Users\samy\Documents\GitHub\Weather-app\XWeather\Droid\bin\Debug\XWeather.Droid.dll.mdb
+C:\Users\samy\Documents\GitHub\Weather-app\XWeather\Droid\obj\Debug\MonoAndroid60\android\assets\ModernHttpClient.dll.mdb
+C:\Users\samy\Documents\GitHub\Weather-app\XWeather\Droid\obj\Debug\MonoAndroid60\android\assets\Plugin.VersionTracking.Abstractions.dll.mdb
+C:\Users\samy\Documents\GitHub\Weather-app\XWeather\Droid\obj\Debug\MonoAndroid60\android\assets\Plugin.VersionTracking.dll.mdb
+C:\Users\samy\Documents\GitHub\Weather-app\XWeather\Droid\obj\Debug\MonoAndroid60\android\assets\XWeather.Droid.dll.mdb
+C:\Users\samy\Documents\GitHub\Weather-app\XWeather\Droid\obj\Debug\MonoAndroid60\android\assets\Microsoft.CSharp.pdb
+C:\Users\samy\Documents\GitHub\Weather-app\XWeather\Droid\obj\Debug\MonoAndroid60\android\assets\Mono.Android.pdb
+C:\Users\samy\Documents\GitHub\Weather-app\XWeather\Droid\obj\Debug\MonoAndroid60\android\assets\Mono.Security.pdb
+C:\Users\samy\Documents\GitHub\Weather-app\XWeather\Droid\obj\Debug\MonoAndroid60\android\assets\mscorlib.pdb
+C:\Users\samy\Documents\GitHub\Weather-app\XWeather\Droid\obj\Debug\MonoAndroid60\android\assets\System.ComponentModel.Composition.pdb
+C:\Users\samy\Documents\GitHub\Weather-app\XWeather\Droid\obj\Debug\MonoAndroid60\android\assets\System.Core.pdb
+C:\Users\samy\Documents\GitHub\Weather-app\XWeather\Droid\obj\Debug\MonoAndroid60\android\assets\System.IO.Compression.pdb
+C:\Users\samy\Documents\GitHub\Weather-app\XWeather\Droid\obj\Debug\MonoAndroid60\android\assets\System.Net.Http.pdb
+C:\Users\samy\Documents\GitHub\Weather-app\XWeather\Droid\obj\Debug\MonoAndroid60\android\assets\System.Net.pdb
+C:\Users\samy\Documents\GitHub\Weather-app\XWeather\Droid\obj\Debug\MonoAndroid60\android\assets\System.pdb
+C:\Users\samy\Documents\GitHub\Weather-app\XWeather\Droid\obj\Debug\MonoAndroid60\android\assets\System.Runtime.Serialization.pdb
+C:\Users\samy\Documents\GitHub\Weather-app\XWeather\Droid\obj\Debug\MonoAndroid60\android\assets\System.ServiceModel.Internals.pdb
+C:\Users\samy\Documents\GitHub\Weather-app\XWeather\Droid\obj\Debug\MonoAndroid60\android\assets\System.Xml.Linq.pdb
+C:\Users\samy\Documents\GitHub\Weather-app\XWeather\Droid\obj\Debug\MonoAndroid60\android\assets\System.Xml.pdb
+C:\Users\samy\Documents\GitHub\Weather-app\XWeather\Droid\bin\Debug\XWeather.Droid.dll
+C:\Users\samy\Documents\GitHub\Weather-app\XWeather\Droid\obj\Debug\MonoAndroid60\linksrc\XWeather.Droid.dll.mdb
+C:\Users\samy\Documents\GitHub\Weather-app\XWeather\Droid\obj\Debug\MonoAndroid60\linksrc\ModernHttpClient.dll.mdb
+C:\Users\samy\Documents\GitHub\Weather-app\XWeather\Droid\obj\Debug\MonoAndroid60\linksrc\Plugin.VersionTracking.Abstractions.dll.mdb
+C:\Users\samy\Documents\GitHub\Weather-app\XWeather\Droid\obj\Debug\MonoAndroid60\linksrc\Plugin.VersionTracking.dll.mdb
